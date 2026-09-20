@@ -1,0 +1,6391 @@
+{
+  "database_name": "Wuthering Waves Battle TCG Card Database",
+  "version": "1.0.0",
+  "total_cards": 123,
+  "total_images": 164,
+  "cards": [
+    {
+      "card_code": "SD01-022",
+      "system_id": "40e671c2-c447-46ad-9579-8b037bb9d5cb",
+      "name_th": "Resonating Slashes",
+      "name_en": "Resonating Slashes",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "16",
+        "attack": "1",
+        "Exclusive Character name": "Rover (F)",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Skill",
+        "Spectro",
+        "Rover (F)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-022.jpg",
+        "local_path": "assets/cards/SD01-022.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD01-022-ab1",
+          "original_th": "[Leader Skill] (การ์ดใบนี้สามารถใช้ได้ก็ต่อเมื่อลีดเดอร์ของคุณเป็นตัวละครที่ระบุไว้เท่านั้น)",
+          "custom_th": "",
+          "original_en": "[Leader Skill] (This card can only be used if your leader is the specified character)",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:09:56.816897+00:00",
+        "updated_at": "2026-09-08T01:45:22.135513+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-005",
+      "system_id": "65273e8e-c73e-43a5-8951-2a8087c09e21",
+      "name_th": "Jinshi",
+      "name_en": "Jinshi",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Boardblade",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Jinshi"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-005.jpg",
+        "local_path": "assets/cards/SD02-005.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "95508658-3f2e-4c89-a710-8ad2314c3165",
+          "rarity": "★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-005_4.jpg",
+          "local_image_path": "assets/cards/SD02-005_4.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "SD02-005-ab1",
+          "original_th": "[Leader] การ์ดสีแดงของคุณได้รับ “[Combo] การ์ดใบนี้ได้รับ +1 ดาเมจ”",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T04:10:38.625058+00:00",
+        "updated_at": "2026-09-19T14:19:09.274737+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-031",
+      "system_id": "cc68c784-484f-4b0d-b470-ef8107338723",
+      "name_th": "Sanhua",
+      "name_en": "Sanhua",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Sword",
+        "Attribute": "Glacio"
+      },
+      "tags": [
+        "Sanhua"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-031.jpg",
+        "local_path": "assets/cards/BP01-031.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "3be50971-b0ed-466e-a7d1-f91f9e6cc34b",
+          "rarity": "★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-031_4.jpg",
+          "local_image_path": "assets/cards/BP01-031_4.jpg"
+        },
+        {
+          "variant_id": "ab959940-4725-44ee-87db-441e8f1b26d9",
+          "rarity": "★ ★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-031_5.jpg",
+          "local_image_path": "assets/cards/BP01-031_5.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-031-ab1",
+          "original_th": "[Leader] [Judgement] หากชนะด้วยการ์ดสีฟ้า สามารถเปลี่ยนลีดเดอร์และได้รับ +3[follow-up attack]",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-27T04:58:47.919915+00:00",
+        "updated_at": "2026-09-14T19:42:58.801648+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-033",
+      "system_id": "31ea1a43-6659-46ef-a52a-6dc55603f8cc",
+      "name_th": "Sanhua",
+      "name_en": "Sanhua",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "0",
+        "Weapon": "Sword",
+        "Attribute": "Glacio"
+      },
+      "tags": [
+        "Sanhua"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-033.jpg",
+        "local_path": "assets/cards/BP01-033.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "9184bca4-d595-454b-9548-e63cec3dc21e",
+          "rarity": "[Promo]★★",
+          "sources": [
+            "Demo",
+            "PR Pack vol 1"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-033_2PR.jpg",
+          "local_image_path": "assets/cards/BP01-033_2PR.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-033-ab1",
+          "original_th": "[Leader] [Counter] หาก counter ด้วยการ์ดสีฟ้า สามารถนำการ์ด 1 ใบบนสุดของเด็ควางที่ Concerto area",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T04:12:05.815241+00:00",
+        "updated_at": "2026-09-14T19:54:39.285197+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-019",
+      "system_id": "79fc6105-bbc4-47c5-adec-0d3ffa2332d2",
+      "name_th": "Waveshock",
+      "name_en": "Waveshock",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "0",
+        "attack": "0",
+        "Exclusive Character name": "Rover (M)",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Intro Skill",
+        "Rover (M)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-019.jpg",
+        "local_path": "assets/cards/SD02-019.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD02-019-ab1",
+          "original_th": "[Combo] เปลี่ยน Leader หากเปลี่ยนเป็น 「Rover (M)」จั่วการ์ด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T04:26:04.75927+00:00",
+        "updated_at": "2026-09-19T14:20:05.81165+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-025",
+      "system_id": "4cb73738-d24f-4d8e-abe4-6acf6d3ca846",
+      "name_th": "Chixia",
+      "name_en": "Chixia",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Pistol",
+        "Attribute": "Fusion"
+      },
+      "tags": [
+        "Chixia"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-025.jpg",
+        "local_path": "assets/cards/BP01-025.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "d2c52904-e945-4de4-a311-0fb964b11b09",
+          "rarity": "★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-025_4.jpg",
+          "local_image_path": "assets/cards/BP01-025_4.jpg"
+        },
+        {
+          "variant_id": "90fa3efa-1540-4bc6-bcc7-fa6d487ef5f3",
+          "rarity": "★ ★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-025_5.jpg",
+          "local_image_path": "assets/cards/BP01-025_5.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-025-ab1",
+          "original_th": "[Leader] [At end of Counter phase] หากใน Action area ของเจ้าของมีการ์ด <Normal Attack> 2 ใบหรือมากกว่า ทำ 3 ดาเมจใส่ฝ่ายตรงข้าม",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-25T04:24:58.173346+00:00",
+        "updated_at": "2026-09-19T13:51:35.819812+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-021",
+      "system_id": "4dbc4390-a675-4c3a-8b3a-3fa95eb55649",
+      "name_th": "Rover (M)",
+      "name_en": "Rover (M)",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "0",
+        "Weapon": "Sword",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Rover (M)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-021.jpg",
+        "local_path": "assets/cards/BP01-021.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-021-ab1",
+          "original_th": "[Leader] [Counter] หาก counter ด้วยการ์ดสีเขียว สามารถแสดงการ์ด 2 ใบบนสุดของเด็ค จากนั้นนำขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T03:40:15.721856+00:00",
+        "updated_at": "2026-09-14T19:55:44.374732+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-013",
+      "system_id": "e423d365-2abb-464a-baf9-9929ab7be291",
+      "name_th": "Encore",
+      "name_en": "Encore",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Rectifier",
+        "Attribute": "Fusion"
+      },
+      "tags": [
+        "Encore"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-013.jpg",
+        "local_path": "assets/cards/BP01-013.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-013-ab1",
+          "original_th": "[Enter] / [Level up] นำการ์สีแดงของ 【Encore】1 ใบจากกองทิ้งขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-17T08:43:20.333354+00:00",
+        "updated_at": "2026-09-19T14:09:11.006048+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-017",
+      "system_id": "85efe41e-e0f0-4fac-bdff-28132d59bc68",
+      "name_th": "Vibration Manifestation • Basic Attack",
+      "name_en": "Vibration Manifestation • Basic Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "8",
+        "attack": "1",
+        "Exclusive Character name": "Rover (F)",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Basic Attack",
+        "Spectro",
+        "Rover (F)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-017.jpg",
+        "local_path": "assets/cards/SD01-017.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T06:55:45.199903+00:00",
+        "updated_at": "2026-09-08T01:47:17.928456+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-001",
+      "system_id": "69ac7642-d0d8-448b-873f-18f282030dc1",
+      "name_th": "Rover (M)",
+      "name_en": "Rover (M)",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Sword",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Rover (M)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-001.jpg",
+        "local_path": "assets/cards/SD02-001.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD02-001-ab1",
+          "original_th": "[Leader] [At end of each turn] จั่วการ์ด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T03:45:09.345151+00:00",
+        "updated_at": "2026-09-08T01:51:40.332526+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-021",
+      "system_id": "1fb54313-3c79-4280-ae87-da7400d0f84d",
+      "name_th": "Grapple",
+      "name_en": "Grapple",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "8",
+        "attack": "0",
+        "Exclusive Character name": "Rover (M)",
+        "Color": "เขียว"
+      },
+      "tags": [
+        "Utilities",
+        "Airborn",
+        "Rover (M)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-021.jpg",
+        "local_path": "assets/cards/SD02-021.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD02-021-ab1",
+          "original_th": "[Judgement] หากชนะ จั่วการ์ด 1 ใบ ได้รับ +2[follow-up attack]",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T04:42:38.923352+00:00",
+        "updated_at": "2026-09-08T01:49:17.345433+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-017",
+      "system_id": "8aed47db-f047-479f-b0c8-f07cfb624238",
+      "name_th": "Vibration Manifestation • Basic Attack",
+      "name_en": "Vibration Manifestation • Basic Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "8",
+        "attack": "1",
+        "Exclusive Character name": "Rover (M)",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Basic Attack",
+        "Spectro",
+        "Rover (M)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-017.jpg",
+        "local_path": "assets/cards/SD02-017.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T04:27:26.752424+00:00",
+        "updated_at": "2026-09-08T01:50:03.855382+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-059",
+      "system_id": "fb0a82df-e3ea-4e59-aa9e-9c4513818295",
+      "name_th": "Wooly Attack • Basic Attack",
+      "name_en": "Wooly Attack • Basic Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "5",
+        "attack": "1",
+        "Exclusive Character name": "Encore",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Basic Attack",
+        "Fusion",
+        "Encore"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-059.jpg",
+        "local_path": "assets/cards/BP01-059.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-059-ab1",
+          "original_th": "[Advantage] [Counter] หาก Leader เป็น 「Encore」 ความเร็วของการ์ดใบนี้เป็น 10",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-31T04:55:28.201098+00:00",
+        "updated_at": "2026-09-11T06:04:07.359696+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-044",
+      "system_id": "dd5a92ec-4c61-493f-931a-09d9084d328a",
+      "name_th": "Burgeoning • Basic Attack",
+      "name_en": "Burgeoning • Basic Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "8",
+        "attack": "1",
+        "Exclusive Character name": "Camellya",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Basic Attack",
+        "Havoc",
+        "Camellya"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-044_2.jpg",
+        "local_path": "assets/cards/BP01-044_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "f3ffa899-4f61-470e-b920-7b02c59a5a2d",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-044_2.jpg",
+          "local_image_path": "assets/cards/BP01-044_2.jpg"
+        }
+      ],
+      "abilities": [],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:22:32.685217+00:00",
+        "updated_at": "2026-09-13T17:47:11.22594+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-053",
+      "system_id": "297cb5bd-a0fc-4e0c-a745-14e35e79da9e",
+      "name_th": "Origin Calculus • Dodge",
+      "name_en": "Origin Calculus • Dodge",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "attack": "0",
+        "Exclusive Character name": "Shorekeeper",
+        "Color": "ฟ้า"
+      },
+      "tags": [
+        "Dodge",
+        "Shorekeeper"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-053.jpg",
+        "local_path": "assets/cards/BP01-053.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-053-ab1",
+          "original_th": "[Judgement]หากชนะ ฟื้นฟู 1 พลังชีวิต",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-31T04:58:38.272347+00:00",
+        "updated_at": "2026-09-08T01:35:28.195797+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-015",
+      "system_id": "35a0abb7-b817-4457-a2b3-5846e6792545",
+      "name_th": "Jump",
+      "name_en": "Jump",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "7",
+        "attack": "0",
+        "Exclusive Character name": "Yangyang",
+        "Color": "เขียว"
+      },
+      "tags": [
+        "Movement",
+        "Airborn",
+        "Yangyang"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-015.jpg",
+        "local_path": "assets/cards/SD01-015.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD01-015-ab1",
+          "original_th": "[Judgement] หากชนะ จั่วการ์ด 1 ใบ และได้รับ +1[follow-up attack]",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T06:59:06.046685+00:00",
+        "updated_at": "2026-09-08T01:47:00.30817+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-013",
+      "system_id": "bb27558c-bad0-4338-a756-5e8cf99a70c0",
+      "name_th": "Frigid Light • Dodge",
+      "name_en": "Frigid Light • Dodge",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "attack": "0",
+        "Exclusive Character name": "Sanhua",
+        "Color": "ฟ้า"
+      },
+      "tags": [
+        "Dodge",
+        "Sanhua"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-013.jpg",
+        "local_path": "assets/cards/SD02-013.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD02-013-ab1",
+          "original_th": "[Judgement] หากชนะ ได้รับ 2[follow-up attack]",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T06:16:04.678185+00:00",
+        "updated_at": "2026-09-08T01:48:59.121596+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-073",
+      "system_id": "675fddb9-b1e5-422c-920f-05bf91984ac1",
+      "name_th": "Overflowing Radiance",
+      "name_en": "Overflowing Radiance",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "13",
+        "attack": "1",
+        "Exclusive Character name": "Jinshi",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Skill",
+        "Spectro",
+        "Jinshi"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-073.jpg",
+        "local_path": "assets/cards/BP01-073.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-073-ab1",
+          "original_th": "[Leader Skill] (การ์ดใบนี้สามารถใช้ได้ก็ต่อเมื่อลีดเดอร์ของคุณเป็นตัวละครที่ระบุไว้เท่านั้น)",
+          "custom_th": "",
+          "original_en": "[Leader Skill] (This card can only be used if your leader is the specified character)",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-073-ab2",
+          "original_th": "[Judgement] หากชนะ นำ 「Incarnation」 ขึ้นมือ จากนั้นสับเด็ค",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-31T04:54:00.139167+00:00",
+        "updated_at": "2026-09-11T06:05:01.934267+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-008",
+      "system_id": "27b47fe0-3402-4360-a03d-ea39d181afe2",
+      "name_th": "POW POW • Dodge Counter",
+      "name_en": "POW POW • Dodge Counter",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "attack": "3",
+        "Exclusive Character name": "Chixia",
+        "Color": "ฟ้า"
+      },
+      "tags": [
+        "Dodge Counter",
+        "Fusion",
+        "Chixia"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-008.jpg",
+        "local_path": "assets/cards/SD01-008.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:04:08.732382+00:00",
+        "updated_at": "2026-09-08T01:46:21.542506+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-012",
+      "system_id": "5d8dafc7-a10a-4906-afd1-c17294668095",
+      "name_th": "Feather as Blade • Basic Attack",
+      "name_en": "Feather as Blade • Basic Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "8",
+        "attack": "1",
+        "Exclusive Character name": "Yangyang",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Basic Attack",
+        "Aero",
+        "Yangyang"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-012.jpg",
+        "local_path": "assets/cards/SD01-012.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:01:15.892982+00:00",
+        "updated_at": "2026-09-08T01:46:41.635674+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-013",
+      "system_id": "7a97e7ea-0f33-4302-be6f-2779fdc317f8",
+      "name_th": "Feather as Blade • Dodge",
+      "name_en": "Feather as Blade • Dodge",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "attack": "0",
+        "Exclusive Character name": "Yangyang",
+        "Color": "ฟ้า"
+      },
+      "tags": [
+        "Dodge",
+        "Yangyang"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-013.jpg",
+        "local_path": "assets/cards/SD01-013.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD01-013-ab1",
+          "original_th": "[Judgement] หากชนะ ได้รับ +2[follow-up attack]",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:05:53.827248+00:00",
+        "updated_at": "2026-09-08T01:45:58.247959+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-032",
+      "system_id": "be38a21a-c104-49bb-b809-c4bce01165e8",
+      "name_th": "Sanhua",
+      "name_en": "Sanhua",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Sword",
+        "Attribute": "Glacio"
+      },
+      "tags": [
+        "Sanhua"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-032.jpg",
+        "local_path": "assets/cards/BP01-032.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-032-ab1",
+          "original_th": "[Enter] / [Level up] สามารถนำการ์ดจากกองทิ้ง 1 ใบวางที่ Concerto area",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-17T05:37:34.120853+00:00",
+        "updated_at": "2026-09-08T01:42:50.602354+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-012",
+      "system_id": "eef0decc-3eb6-4b11-980a-3717e6869adb",
+      "name_th": "Encore",
+      "name_en": "Encore",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Rectifier",
+        "Attribute": "Fusion"
+      },
+      "tags": [
+        "Encore"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-012.jpg",
+        "local_path": "assets/cards/BP01-012.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "1ad08a0e-93b1-4022-9b2b-54197fc6d9e9",
+          "rarity": "★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-012_4.jpg",
+          "local_image_path": "assets/cards/BP01-012_4.jpg"
+        },
+        {
+          "variant_id": "349878d8-8ebe-4ea7-a445-b89dd67a5b44",
+          "rarity": "★ ★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-012_5.jpg",
+          "local_image_path": "assets/cards/BP01-012_5.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-012-ab1",
+          "original_th": "[Leader] [At end of each turn] หากฝ่ายตรงข้ามได้รับดาเมจในรอบนี้ นำการ์ดของ 【Encore】 1 ใบจากกองทิ้งขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-17T08:44:12.886655+00:00",
+        "updated_at": "2026-09-19T14:08:33.768434+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-009",
+      "system_id": "d1e09bd8-9445-4748-a0e5-3a8bd4765d85",
+      "name_th": "Leaping Flames",
+      "name_en": "Leaping Flames",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "0",
+        "attack": "0",
+        "Exclusive Character name": "Chixia",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Intro Skill",
+        "Fusion",
+        "Chixia"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-009.jpg",
+        "local_path": "assets/cards/SD01-009.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD01-009-ab1",
+          "original_th": "[Combo] เปลี่ยน Leader หากเปลี่ยนเป็น 「Chixia」 การ์ดใบนี้ได้รับ +2 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:00:37.397464+00:00",
+        "updated_at": "2026-09-19T14:13:48.208949+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-029",
+      "system_id": "5624cd3e-860d-4919-a800-dced1eca52ae",
+      "name_th": "Jinshi",
+      "name_en": "Jinshi",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Attribute": "Spectro",
+        "Weapon": "Broadblade"
+      },
+      "tags": [
+        "Jinshi"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-029.jpg",
+        "local_path": "assets/cards/BP01-029.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-029-ab1",
+          "original_th": "[Leader] [Judgement] หากชนะด้วยการ์ดสีแดง ทำ 2 ดาเมจใส่ฝ่ายตรงข้าม",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-17T05:29:33.813222+00:00",
+        "updated_at": "2026-09-08T01:43:23.55235+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-019",
+      "system_id": "81f51be2-6bd7-4fe8-a7c9-7da17b0589e3",
+      "name_th": "Waveshock",
+      "name_en": "Waveshock",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "0",
+        "attack": "0",
+        "Exclusive Character name": "Rover (F)",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Intro Skill",
+        "Rover (F)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-019.jpg",
+        "local_path": "assets/cards/SD01-019.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD01-019-ab1",
+          "original_th": "[Combo] เปลี่ยน Leader หากเปลี่ยนเป็น 「Rover (F)」 จั่วการ์ด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T06:54:46.643448+00:00",
+        "updated_at": "2026-09-19T14:20:24.531463+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-066",
+      "system_id": "86eac2ab-1e13-47c3-b022-3e56e9027c1b",
+      "name_th": "Vibration Manifestation • Mid-air Attack",
+      "name_en": "Vibration Manifestation • Mid-air Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "6",
+        "attack": "1",
+        "Exclusive Character name": "Rover (F)",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Mid-air Attack",
+        "Rover (F)"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-066_2.jpg",
+        "local_path": "assets/cards/BP01-066_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "07ed3718-9a8e-4790-aaa6-3909cbde1f29",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-066_2.jpg",
+          "local_image_path": "assets/cards/BP01-066_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-066-ab1",
+          "original_th": "[Judgement] หากชนะ จั่วการ์ด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-22T04:01:04.223636+00:00",
+        "updated_at": "2026-09-13T17:49:53.822313+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-074",
+      "system_id": "e93756b9-e035-4753-a656-b5d94cfa5d93",
+      "name_th": "Illuminous Epiphany",
+      "name_en": "Illuminous Epiphany",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "11",
+        "attack": "0",
+        "Exclusive Character name": "Jinshi",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Forte Circuit",
+        "Resonance Skill",
+        "Spectro",
+        "Jinshi"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-074.jpg",
+        "local_path": "assets/cards/BP01-074.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-074-ab1",
+          "original_th": "[Leader Skill] (การ์ดใบนี้สามารถใช้ได้ก็ต่อเมื่อลีดเดอร์ของคุณเป็นตัวละครที่ระบุไว้เท่านั้น)",
+          "custom_th": "",
+          "original_en": "[Leader Skill] (This card can only be used if your leader is the specified character)",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-074-ab2",
+          "original_th": "[Combo] การ์ดใบนี้ได้รับ +1 ดาเมจ ตามจำนวนการ์ดที่อยู่บน Action area ฝ่ายเรา",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-074-ab3",
+          "original_th": "[Counter] / [Combo] ในรอบนี้ เจ้าของไม่สามารถโจมตีต่อเนื่องได้",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-30T16:02:03.597649+00:00",
+        "updated_at": "2026-09-08T01:36:12.490058+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-018",
+      "system_id": "e17eb9e3-54a1-4149-b590-99530401e0e8",
+      "name_th": "Vibration Manifestation • Dodge",
+      "name_en": "Vibration Manifestation•Dodge",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "attack": "0",
+        "Exclusive Character name": "Rover (M)",
+        "Color": "ฟ้า"
+      },
+      "tags": [
+        "Dodge",
+        "Rover (M)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-018.jpg",
+        "local_path": "assets/cards/SD02-018.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD02-018-ab1",
+          "original_th": "[Judgement] หากชนะ จั่วการ์ด 1 ใบ จากนั้นทิ้งการ์ดในมือ 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T04:31:03.629211+00:00",
+        "updated_at": "2026-09-08T01:49:50.159002+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-003",
+      "system_id": "716fc819-2d9f-4e66-b812-5b1e9795b56b",
+      "name_th": "Yangyang",
+      "name_en": "Yangyang",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Sword",
+        "Attribute": "Aero"
+      },
+      "tags": [
+        "Yangyang"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-003.jpg",
+        "local_path": "assets/cards/SD01-003.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "d7f3da04-2f7d-430c-869c-b85ab01c39c5",
+          "rarity": "★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-003_4.jpg",
+          "local_image_path": "assets/cards/SD01-003_4.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "SD01-003-ab1",
+          "original_th": "[Leader] [Counter] หากฝ่ายตรงข้าม counter ด้วยการ์ดสีแดง ฝ่ายตรงข้ามต้องจ่าย cost เพิ่ม 1 ใบ หากไม่ทำ ฝ่ายตรงข้ามได้รับ 3 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T03:25:55.267107+00:00",
+        "updated_at": "2026-09-08T01:52:43.324846+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-011",
+      "system_id": "0f558e0c-3787-4944-984e-5c5ff60feabf",
+      "name_th": "Blazing Flames",
+      "name_en": "Blazing Flames",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "3",
+        "Speed": "12",
+        "attack": "7",
+        "Exclusive Character name": "Chixia",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Liberation",
+        "Fusion",
+        "Chixia"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-011.jpg",
+        "local_path": "assets/cards/SD01-011.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "63bda7c7-d10e-4d87-8047-cd12656e76e2",
+          "rarity": "★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-011_3.jpg",
+          "local_image_path": "assets/cards/SD01-011_3.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "SD01-011-ab1",
+          "original_th": "[Leader Skill] (การ์ดใบนี้สามารถใช้ได้ก็ต่อเมื่อลีดเดอร์ของคุณเป็นตัวละครที่ระบุไว้เท่านั้น)",
+          "custom_th": "",
+          "original_en": "[Leader Skill] (This card can only be used if your leader is the specified character)",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:06:58.631957+00:00",
+        "updated_at": "2026-09-14T19:53:04.509995+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-026",
+      "system_id": "ff50bf63-6bb6-49b3-b10f-416c2cbcd2b0",
+      "name_th": "Chixia",
+      "name_en": "Chixia",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Pistol",
+        "Attribute": "Fusion"
+      },
+      "tags": [
+        "Chixia"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-026.jpg",
+        "local_path": "assets/cards/BP01-026.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-026-ab1",
+          "original_th": "[Enter] / [Level up] สามารถนำการ์ด <Normal Attack> 1 ใบจากกองทิ้งขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-17T05:31:48.644692+00:00",
+        "updated_at": "2026-09-19T13:53:11.469491+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-005",
+      "system_id": "6abfba10-1717-42f8-8f65-1cbefd6a7322",
+      "name_th": "Camellya",
+      "name_en": "Camellya",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "0",
+        "Weapon": "Sword",
+        "Attribute": "Havoc"
+      },
+      "tags": [
+        "Camellya"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-005.jpg",
+        "local_path": "assets/cards/BP01-005.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "5307a71c-cc5c-4936-8c33-22e0877d792f",
+          "rarity": "[Promo]★★",
+          "sources": [
+            "Demo"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-005_2PR.jpg",
+          "local_image_path": "assets/cards/BP01-005_2PR.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-005-ab1",
+          "original_th": "[Leader] [Judgement] หากชนะ นำการ์ด <Basic attack> 1 ใบจากกองทิ้งขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-13T16:41:59.660263+00:00",
+        "updated_at": "2026-09-19T13:53:40.365598+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-004",
+      "system_id": "f0a6e158-911c-49e3-8a16-1aa4ca401eb6",
+      "name_th": "Sanhua",
+      "name_en": "Sanhua",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Sword",
+        "Attribute": "Glacio"
+      },
+      "tags": [
+        "Sanhua"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-004.jpg",
+        "local_path": "assets/cards/SD02-004.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD02-004-ab1",
+          "original_th": "[Leader] [Judgement] หากแพ้ให้กับการ์ดสีเขียวในการเล่นการ์ดสีฟ้า สามารถแสดงการ์ด 1 ใบบนสุดของเด็ค จากนั้นนำขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T04:14:02.023304+00:00",
+        "updated_at": "2026-09-08T01:50:38.628766+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-001",
+      "system_id": "4ec1de3c-270a-4686-839e-4094e4c9b790",
+      "name_th": "Rover (F)",
+      "name_en": "Rover (F)",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Sword",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Rover (F)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-001.jpg",
+        "local_path": "assets/cards/SD01-001.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD01-001-ab1",
+          "original_th": "[At start of own turn] จั่วการ์ด 1 ใบ",
+          "custom_th": "",
+          "original_en": "[At start of own turn] Draw 1 card",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T03:13:58.921632+00:00",
+        "updated_at": "2026-09-08T01:53:07.42629+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-004",
+      "system_id": "1190a9c3-4450-4cbc-84f7-7d0204f836c2",
+      "name_th": "Yangyang",
+      "name_en": "Yangyang",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Sword",
+        "Attribute": "Aero"
+      },
+      "tags": [
+        "Yangyang"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-004.jpg",
+        "local_path": "assets/cards/SD01-004.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD01-004-ab1",
+          "original_th": "[Leader] [Judgement] หากแพ้ให้การ์ดสีเขียวในการเล่นการ์ดสีฟ้า สามารถแสดงการ์ด 1 ใบบนสุดของเด็ค จากนั้นนำขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T03:22:01.515532+00:00",
+        "updated_at": "2026-09-08T01:52:53.127677+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-058",
+      "system_id": "1cf59b6c-cb77-45d0-a4aa-4044ea07ac28",
+      "name_th": "Supernal Stellarealm",
+      "name_en": "Supernal Stellarealm",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "5",
+        "attack": "0",
+        "Exclusive Character name": "Shorekeeper",
+        "Color": "เขียว"
+      },
+      "tags": [
+        "Shorekeeper"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-058.jpg",
+        "local_path": "assets/cards/BP01-058.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-058-ab1",
+          "original_th": "[Judgement] หากชนะ จั่วการ์ด 2 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-058-ab2",
+          "original_th": "[Advantage] [Judgement] หากแพ้ด้วยการ์ดใบนี้ และหาก Leader เป็น Shorekeeper ในรอบนี้ ฝ่ายตรงข้ามไม่สามารถ Combo ได้",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-22T04:37:02.816073+00:00",
+        "updated_at": "2026-09-11T04:51:52.1884+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-021",
+      "system_id": "057c9b9e-999d-4d07-b905-faebe871677b",
+      "name_th": "Grapple",
+      "name_en": "Grapple",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "8",
+        "attack": "0",
+        "Exclusive Character name": "Rover (F)",
+        "Color": "เขียว"
+      },
+      "tags": [
+        "Utilities",
+        "Airborn",
+        "Rover (F)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-021.jpg",
+        "local_path": "assets/cards/SD01-021.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD01-021-ab1",
+          "original_th": "[Judgement] หากชนะ จั่วการ์ด 1 ใบ ได้รับ +2[follow-up attack]",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:08:52.975612+00:00",
+        "updated_at": "2026-09-08T01:45:35.808382+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-028",
+      "system_id": "a90c576a-ba06-4c78-b6f8-28ea9e774547",
+      "name_th": "Jinshi",
+      "name_en": "Jinshi",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Sword",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Jinshi"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-028.jpg",
+        "local_path": "assets/cards/BP01-028.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "3d66feb6-c9d9-4ac3-bff0-33d47740c6e8",
+          "rarity": "★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-028_4.jpg",
+          "local_image_path": "assets/cards/BP01-028_4.jpg"
+        },
+        {
+          "variant_id": "b166082a-1a10-4c88-8483-af2d74dcc9e9",
+          "rarity": "★ ★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-028_5.jpg",
+          "local_image_path": "assets/cards/BP01-028_5.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-028-ab1",
+          "original_th": "[Leader] [Judgement] หากชนะในรอบของเจ้าของ แสดงการ์ด 5 ใบบนสุดของเด็ค นำการ์ดของ 【Jinshi】 ทั้งหมดขึ้นมือ จากนั้นนำการ์ดที่เหลือลงกองทิ้ง",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-29T10:41:03.439512+00:00",
+        "updated_at": "2026-09-14T19:42:36.755089+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-022",
+      "system_id": "c90f74b9-4230-4d69-8f4e-2b90b9873f7c",
+      "name_th": "Yangyang",
+      "name_en": "Yangyang",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Sword",
+        "Attribute": "Aero"
+      },
+      "tags": [
+        "Yangyang"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-022.jpg",
+        "local_path": "assets/cards/BP01-022.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "7d147de7-2019-475c-8dbe-c63e7c7671fd",
+          "rarity": "★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-022_4.jpg",
+          "local_image_path": "assets/cards/BP01-022_4.jpg"
+        },
+        {
+          "variant_id": "89833f97-3397-48d9-b1ad-f6774d8b2bc0",
+          "rarity": "★ ★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-022_5.jpg",
+          "local_image_path": "assets/cards/BP01-022_5.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-022-ab1",
+          "original_th": "[At end of own turn] ทิ้งการ์ด 1 ใบ หากทำสลับ Leader เป็น 「Yangyang」",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-23T04:18:00.06433+00:00",
+        "updated_at": "2026-09-19T14:24:10.974042+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-024",
+      "system_id": "9eec78b0-0e9a-4203-a5c5-208d83453107",
+      "name_th": "Yangyang",
+      "name_en": "Yangyang",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "0",
+        "Weapon": "Sword",
+        "Attribute": "Aero"
+      },
+      "tags": [
+        "Yangyang"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-024.jpg",
+        "local_path": "assets/cards/BP01-024.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "3fb93b34-83cb-44bd-8659-d7880c7e0645",
+          "rarity": "[Promo]★★",
+          "sources": [
+            "Demo",
+            "PR Pack vol 1"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-024_PR.jpg",
+          "local_image_path": "assets/cards/BP01-024_PR.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-024-ab1",
+          "original_th": "[Leader] [Counter] หาก counter ด้วยการ์ดสีฟ้า สามารถนำการ์ด 1 ใบบนสุดของเด็ควางที่ Concerto area",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T03:16:14.410605+00:00",
+        "updated_at": "2026-09-14T20:18:37.021339+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-023",
+      "system_id": "3d65b9cd-d6ad-4c6e-9dd6-9885d57927f4",
+      "name_th": "Echoing Orchestra",
+      "name_en": "Echoing Orchestra",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "2",
+        "Speed": "13",
+        "attack": "5",
+        "Exclusive Character name": "Rover (M)",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Liberation",
+        "Spectro",
+        "Rover (M)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-023.jpg",
+        "local_path": "assets/cards/SD02-023.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "72313860-1477-4483-8a2c-4cdccadd6d46",
+          "rarity": "★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-023_3.jpg",
+          "local_image_path": "assets/cards/SD02-023_3.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "SD02-023-ab1",
+          "original_th": "[Leader Skill] (การ์ดใบนี้สามารถใช้ได้ก็ต่อเมื่อลีดเดอร์ของคุณเป็นตัวละครที่ระบุไว้เท่านั้น)",
+          "custom_th": "",
+          "original_en": "[Leader Skill] (This card can only be used if your leader is the specified character)",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T04:32:34.684515+00:00",
+        "updated_at": "2026-09-14T19:54:01.630549+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-005",
+      "system_id": "bb34d0ae-d9ed-465c-8f0f-3c9527bb5720",
+      "name_th": "Chixia",
+      "name_en": "Chixia",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Pistol",
+        "Attribute": "Fusion"
+      },
+      "tags": [
+        "Chixia"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-005.jpg",
+        "local_path": "assets/cards/SD01-005.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "66cf4761-0563-48d0-8421-b10dc084b3cc",
+          "rarity": "★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-005_4.jpg",
+          "local_image_path": "assets/cards/SD01-005_4.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "SD01-005-ab1",
+          "original_th": "การ์ด [Leader skill] ของ 【Chixia】 ได้รับ +3 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T03:34:30.130655+00:00",
+        "updated_at": "2026-09-19T14:12:16.828733+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-003",
+      "system_id": "f608878f-236d-41ec-8d26-bcd04bc7d98d",
+      "name_th": "Sanhua",
+      "name_en": "Sanhua",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Sword",
+        "Attribute": "Glacio"
+      },
+      "tags": [
+        "Sanhua"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-003.jpg",
+        "local_path": "assets/cards/SD02-003.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "910cc309-66c5-4366-8cfb-e3445ca1ddfd",
+          "rarity": "★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-003_4.jpg",
+          "local_image_path": "assets/cards/SD02-003_4.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "SD02-003-ab1",
+          "original_th": "[Leader] [At end of each turn] นำการ์ดใบบนสุดของเด็ควางที่ Concerto area",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T04:16:28.339459+00:00",
+        "updated_at": "2026-09-08T01:55:14.715973+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-049",
+      "system_id": "1234a65b-32f3-41da-b298-3be9177a430b",
+      "name_th": "Fervor Efflorescent",
+      "name_en": "Fervor Efflorescent",
+      "card_type": "Action",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "cost": "2",
+        "Speed": "13",
+        "attack": "5",
+        "Exclusive Character name": "Camellya",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Liberation",
+        "Havoc",
+        "Camellya"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-049.jpg",
+        "local_path": "assets/cards/BP01-049.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-01T00:22:08.436107+00:00",
+        "updated_at": "2026-09-08T01:32:30.434833+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-030",
+      "system_id": "35ea3095-ec2c-42f5-ac5d-530dc6b464c1",
+      "name_th": "Jinshi",
+      "name_en": "Jinshi",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "0",
+        "Weapon": "Boardblade",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Jinshi"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-030.jpg",
+        "local_path": "assets/cards/BP01-030.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "5c5f7fe7-c6d1-4e02-8011-a9a0d6431962",
+          "rarity": "[Promo]★★",
+          "sources": [
+            "Demo",
+            "PR Pack vol 1"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-030_2PR.jpg",
+          "local_image_path": "assets/cards/BP01-030_2PR.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-030-ab1",
+          "original_th": "[Leader] [Counter] หาก counter ด้วยการ์ดสีแดง ทำ 1 ดาเมจใส่ฝ่ายตรงข้าม",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T04:06:02.053765+00:00",
+        "updated_at": "2026-09-14T19:55:10.245363+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-027",
+      "system_id": "695ca995-e272-46d1-9562-a80cb038cb32",
+      "name_th": "Chixia",
+      "name_en": "Chixia",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "0",
+        "Weapon": "Pistol",
+        "Attribute": "Fusion"
+      },
+      "tags": [
+        "Chixia"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-027.jpg",
+        "local_path": "assets/cards/BP01-027.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "2626b89f-6e27-4ae8-bb6a-99e2b3e1339a",
+          "rarity": "[Promo]★★",
+          "sources": [
+            "Demo",
+            "PR Pack vol 1"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-027_2PR.jpg",
+          "local_image_path": "assets/cards/BP01-027_2PR.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-027-ab1",
+          "original_th": "[Leader] [Counter] หาก counter ด้วยการ์ดสีแดง ทำ 1 ดาเมจใส่ฝ่ายตรงข้าม",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T03:31:36.108507+00:00",
+        "updated_at": "2026-09-14T19:56:09.648739+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-070",
+      "system_id": "023abcb9-d84e-44d0-909d-a15413a23a0a",
+      "name_th": "Zephyr Domain",
+      "name_en": "Zephyr Domain",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "14",
+        "attack": "2",
+        "Exclusive Character name": "Yangyang",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Skill",
+        "Aero",
+        "Yangyang"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-070.jpg",
+        "local_path": "assets/cards/BP01-070.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-070-ab1",
+          "original_th": "[Leader Skill] [Judgement] หากชนะ นำการ์ดสีฟ้า 1 ใบ จากกองทิ้งขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-24T04:26:17.739692+00:00",
+        "updated_at": "2026-09-08T01:37:33.042437+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-015",
+      "system_id": "c1086ce1-5e30-4dc2-833e-3b3a4871b949",
+      "name_th": "Eternal Frost",
+      "name_en": "Eternal Frost",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "9",
+        "attack": "3",
+        "Exclusive Character name": "Sanhua",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Skill",
+        "Glacio",
+        "Sanhua"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-015.jpg",
+        "local_path": "assets/cards/SD02-015.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD02-015-ab1",
+          "original_th": "[Leader Skill] [Judgement] หากชนะ นำการ์ด 2 ใบบนสุดของเด็ควางที่ Concerto area",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T06:20:11.755466+00:00",
+        "updated_at": "2026-09-08T01:48:49.263074+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-006",
+      "system_id": "83206729-a027-430a-b83e-65fa5d50794b",
+      "name_th": "Chixia",
+      "name_en": "Chixia",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Pistol",
+        "Attribute": "Fusion"
+      },
+      "tags": [
+        "Chixia"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-006.jpg",
+        "local_path": "assets/cards/SD01-006.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD01-006-ab1",
+          "original_th": "[Leader] [Judgement] หากแพ้การ์ดสีฟ้าในการเล่นการ์ดสีแดง สามารถแสดงการ์ด 1 ใบบนสุดของเด็ค จากนั้นนำขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T03:33:05.783513+00:00",
+        "updated_at": "2026-09-08T01:52:25.453491+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-018",
+      "system_id": "97df2cc6-2d46-4303-836b-4d368a96780c",
+      "name_th": "Vibration Manifestation • Dodge",
+      "name_en": "Vibration Manifestation • Dodge",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "attack": "0",
+        "Exclusive Character name": "Rover (F)",
+        "Color": "ฟ้า"
+      },
+      "tags": [
+        "Dodge",
+        "Rover (F)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-018.jpg",
+        "local_path": "assets/cards/SD01-018.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD01-018-ab1",
+          "original_th": "[Judgement] หากชนะ จั่วการ์ด 1 ใบ จากนั้นทิ้งการ์ดในมือ 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:02:35.004421+00:00",
+        "updated_at": "2026-09-08T01:46:31.900434+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-006",
+      "system_id": "c61369d1-0150-4bf3-a552-e4acfb475890",
+      "name_th": "Jinshi",
+      "name_en": "Jinshi",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Boardblade",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Jinshi"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-006.jpg",
+        "local_path": "assets/cards/SD02-006.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD02-006-ab1",
+          "original_th": "[Leader] [Judgement] หากแพ้ให้กับการ์ดสีฟ้าในการเล้นการ์ดสีแดง สามารถแสดงการ์ด 1 ใบบนสุดของเด็ค จากนั้นนำขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T04:08:22.813655+00:00",
+        "updated_at": "2026-09-08T01:51:17.617548+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-008",
+      "system_id": "2da2a40f-aee0-4a6d-ab06-746f122f0e75",
+      "name_th": "Slash of Breaking Dawn • Dodge Counter",
+      "name_en": "Slash of Breaking Dawn • Dodge Counter",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "attack": "3",
+        "Exclusive Character name": "Jinshi",
+        "Color": "ฟ้า"
+      },
+      "tags": [
+        "Dodge Counter",
+        "Spectro",
+        "Jinshi"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-008.jpg",
+        "local_path": "assets/cards/SD02-008.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T06:51:47.119124+00:00",
+        "updated_at": "2026-09-08T01:47:51.803917+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-008",
+      "system_id": "87daacce-a985-4407-b7ec-798cbd0c4e4b",
+      "name_th": "Shorekeeper",
+      "name_en": "Shorekeeper",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Rectifier",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Shorekeeper"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-008.jpg",
+        "local_path": "assets/cards/BP01-008.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-008-ab1",
+          "original_th": "[Switch] สามารถจั่วการ์ด 1 ใบ จากนั้นทิ้งการ์ด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-21T06:01:18.29576+00:00",
+        "updated_at": "2026-09-08T01:38:30.030896+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-007",
+      "system_id": "2fabe56c-fb29-4385-be23-18b27fc9febe",
+      "name_th": "Shorekeeper",
+      "name_en": "Shorekeeper",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Rectifier",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Shorekeeper"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-007.jpg",
+        "local_path": "assets/cards/BP01-007.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "a88dc1d9-8f80-4485-adf4-513acbaea081",
+          "rarity": "★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-007_4.jpg",
+          "local_image_path": "assets/cards/BP01-007_4.jpg"
+        },
+        {
+          "variant_id": "d9736ed0-2dc2-43f5-8e70-b3edd4c036a0",
+          "rarity": "★ ★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-007_5.jpg",
+          "local_image_path": "assets/cards/BP01-007_5.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-007-ab1",
+          "original_th": "[Leader] [At start of own Counter phase] \nหากบนมือมีการ์ด 4 ใบหรือต่ำกว่า จั่วให้มือมี 5 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-21T06:00:38.91821+00:00",
+        "updated_at": "2026-09-14T19:44:35.579684+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-003",
+      "system_id": "aa805b9c-2af7-45cc-bd94-cc1cf3f5f283",
+      "name_th": "Camellya",
+      "name_en": "Camellya",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Sword",
+        "Attribute": "Havoc"
+      },
+      "tags": [
+        "Camellya"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-003.jpg",
+        "local_path": "assets/cards/BP01-003.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-003-ab1",
+          "original_th": "[Enter] / [Level up] สามารถนำการ์ด <Basic Attack> 1 ใบจากกองทิ้งขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-19T06:18:45.055727+00:00",
+        "updated_at": "2026-09-19T13:52:20.614329+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-014",
+      "system_id": "9ecdc55e-18dd-4c40-84eb-988e1fc79731",
+      "name_th": "Silversnow",
+      "name_en": "Silversnow",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "0",
+        "attack": "0",
+        "Exclusive Character name": "Sanhua",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Intro Skill",
+        "Sanhua"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-014.jpg",
+        "local_path": "assets/cards/SD02-014.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD02-014-ab1",
+          "original_th": "[Combo] เปลี่ยน Leader หากเปลี่ยนเป็น 「Sanhua」 นำการ์ด 1 ใบบนสุดของเด็ควางที่ Concerto area",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T06:51:07.969678+00:00",
+        "updated_at": "2026-09-19T14:11:19.884553+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-010",
+      "system_id": "eec74269-f253-4ebd-b978-631c27ce8f0e",
+      "name_th": "Shorekeeper",
+      "name_en": "Shorekeeper",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "0",
+        "Weapon": "Rectifier",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Shorekeeper"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-010.jpg",
+        "local_path": "assets/cards/BP01-010.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "2e99a726-02c7-47ad-85b9-dcd7f1143370",
+          "rarity": "[Promo]★★",
+          "sources": [
+            "Demo"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-010_2PR.jpg",
+          "local_image_path": "assets/cards/BP01-010_2PR.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-010-ab1",
+          "original_th": "[Leader] [Counter] หาก counter ด้วยการ์ดสีเขียว สามารถแสดงการ์ด 1 ใบบนสุดของเด็ค จากนั้นนำขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-010-ab2",
+          "original_th": "[Leader] [Judgement] หากชนะด้วยการ์ดสีเขียว ฟื้นฟูพลังชีวิต 1",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-13T16:48:26.534234+00:00",
+        "updated_at": "2026-09-14T19:50:21.459177+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-016",
+      "system_id": "cbea9452-262c-4b8d-8c54-0c8454009e5b",
+      "name_th": "Glacial Gaze",
+      "name_en": "Glacial Gaze",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "2",
+        "Speed": "13",
+        "attack": "4",
+        "Exclusive Character name": "Sanhua",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Liberation",
+        "Glacio",
+        "Sanhua"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-016.jpg",
+        "local_path": "assets/cards/SD02-016.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "c480aa45-ecaa-4d14-8df3-81fdbbc851e2",
+          "rarity": "★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-016_3.jpg",
+          "local_image_path": "assets/cards/SD02-016_3.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "SD02-016-ab1",
+          "original_th": "[Leader Skill] [Judgement] หากชนะ ในรอบถัดไปฝ่ายตรงข้ามไม่สามารถใช้โจมตีต่อเนื่องได้",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T06:52:47.305856+00:00",
+        "updated_at": "2026-09-14T19:53:37.321652+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-076",
+      "system_id": "3e631bba-da99-4117-8a03-7cba9aea4ace",
+      "name_th": "Freezing Thorns",
+      "name_en": "Freezing Thorns",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "attack": "0",
+        "Exclusive Character name": "Sanhua",
+        "Color": "ฟ้า"
+      },
+      "tags": [
+        "Dodge",
+        "Sanhua"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-076.jpg",
+        "local_path": "assets/cards/BP01-076.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-076-ab1",
+          "original_th": "[Counter] สามารถเปลี่ยน Leader เป็น 「Sanhua」",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-076-ab2",
+          "original_th": "[Judgement] หากชนะและมี Leader เป็น 「Sanhua」 Level up ให้ 「Sanhua」 ของเจ้าของ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-28T04:32:21.73809+00:00",
+        "updated_at": "2026-09-19T14:07:18.244504+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-009",
+      "system_id": "68c65e9a-f759-4946-99f7-a17592eabc92",
+      "name_th": "Loong's Halo",
+      "name_en": "Loong's Halo",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "0",
+        "attack": "0",
+        "Exclusive Character name": "Jinshi",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Intro Skill",
+        "Spectro",
+        "Jinshi"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-009.jpg",
+        "local_path": "assets/cards/SD02-009.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD02-009-ab1",
+          "original_th": "[Combo] เปลี่ยน Leader หากเปลี่ยนเป็น 「Jinshi」 การใบนี้ได้รับ +2 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T06:49:20.374346+00:00",
+        "updated_at": "2026-09-19T14:18:29.148121+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-020",
+      "system_id": "7022320f-0ce0-4bdc-a668-22635791e5ba",
+      "name_th": "Sensor",
+      "name_en": "Sensor",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "5",
+        "attack": "0",
+        "Exclusive Character name": "Rover (F)",
+        "Color": "เขียว"
+      },
+      "tags": [
+        "Utilities",
+        "Rover (F)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-020.jpg",
+        "local_path": "assets/cards/SD01-020.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD01-020-ab1",
+          "original_th": "[Judgement] หากชนะ จั่วการ์ด 1 ใบ ฝ่ายตรงข้ามแสดงการ์ดในมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:11:33.212009+00:00",
+        "updated_at": "2026-09-08T01:45:11.953255+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-011",
+      "system_id": "2f799b7d-f8e9-415c-9a3d-6e2c4eafd5e8",
+      "name_th": "Purge of Light",
+      "name_en": "Purge of Light",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "3",
+        "Speed": "13",
+        "attack": "5",
+        "Exclusive Character name": "Jinshi",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Liberation",
+        "Spectro",
+        "Jinshi"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-011.jpg",
+        "local_path": "assets/cards/SD02-011.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "88f25547-d6a1-4a2e-9e5f-bbdcec5ab758",
+          "rarity": "★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-011_3.jpg",
+          "local_image_path": "assets/cards/SD02-011_3.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "SD02-011-ab1",
+          "original_th": "[Leader Skill] [Combo] หากใน Action area มีการ์ด 3 ใบหรือมากกว่า การ์ดใบนี้ได้รับ +3 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:58:40.064702+00:00",
+        "updated_at": "2026-09-14T19:51:36.086083+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-007",
+      "system_id": "bc0a7a16-ddbb-4c19-b8b5-4b14f9c2c2e8",
+      "name_th": "POW POW • Basic Attack",
+      "name_en": "POW POW • Basic Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "6",
+        "attack": "1",
+        "Exclusive Character name": "Chixia",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Basic Attack",
+        "Fusion",
+        "Chixia"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-007.jpg",
+        "local_path": "assets/cards/SD01-007.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:04:48.73669+00:00",
+        "updated_at": "2026-09-08T01:46:08.033194+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-015",
+      "system_id": "ad277f54-367d-4779-9b8c-53b8a037e82b",
+      "name_th": "Encore",
+      "name_en": "Encore",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "0",
+        "Weapon": "Rectifier",
+        "Attribute": "Fusion"
+      },
+      "tags": [
+        "Encore"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-015.jpg",
+        "local_path": "assets/cards/BP01-015.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "34bddbac-09bd-48bd-9d40-b04256da75cd",
+          "rarity": "[Promo]★★",
+          "sources": [
+            "Demo"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-015_2PR.jpg",
+          "local_image_path": "assets/cards/BP01-015_2PR.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-015-ab1",
+          "original_th": "[Leader] แต่ละรอบ การ์ด <Normal attack> ใบแรกของ 【Encore】 ได้รับ +2 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-13T16:50:59.692297+00:00",
+        "updated_at": "2026-09-19T14:09:44.943207+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-022",
+      "system_id": "15eb1a4b-a4e0-4c90-8a50-1fe820554202",
+      "name_th": "Resonating Slashes",
+      "name_en": "Resonating Slashes",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "13",
+        "attack": "3",
+        "Exclusive Character name": "Rover (M)",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Skill",
+        "Spectro",
+        "Rover (M)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-022.jpg",
+        "local_path": "assets/cards/SD02-022.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD02-022-ab1",
+          "original_th": "[Leader Skill] (การ์ดใบนี้สามารถใช้ได้ก็ต่อเมื่อลีดเดอร์ของคุณเป็นตัวละครที่ระบุไว้เท่านั้น)",
+          "custom_th": "",
+          "original_en": "[Leader Skill] (This card can only be used if your leader is the specified character)",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:20:01.937454+00:00",
+        "updated_at": "2026-09-08T01:44:33.679016+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-010",
+      "system_id": "86f82f4b-28e6-4cf6-b87b-98291500c64a",
+      "name_th": "Whizzing Fight Spirit",
+      "name_en": "Whizzing Fight Spirit",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "8",
+        "attack": "2",
+        "Exclusive Character name": "Chixia",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Skill",
+        "Fusion",
+        "Chixia"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-010.jpg",
+        "local_path": "assets/cards/SD01-010.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD01-010-ab1",
+          "original_th": "[Leader Skill] [Judgement] หากแพ้การ์ดสีฟ้าในการเล่นการ์ดใบนี้ นำการ์ดใบนี้กลับขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:19:15.867319+00:00",
+        "updated_at": "2026-09-11T04:54:45.408189+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-048",
+      "system_id": "876fc9e0-1c06-47f9-a119-512df2eea9a5",
+      "name_th": "Crimson Blossom",
+      "name_en": "Crimson Blossom",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "14",
+        "attack": "1",
+        "Exclusive Character name": "Camellya",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Skill",
+        "Havoc",
+        "Camellya"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-048.jpg",
+        "local_path": "assets/cards/BP01-048.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-048-ab1",
+          "original_th": "[Leader Skill] [Counter] Level up ให้ 「Camellya」 ของคุณ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-21T06:03:43.898976+00:00",
+        "updated_at": "2026-09-19T14:07:57.105955+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-016",
+      "system_id": "e952df1c-0b39-4d10-b1ec-b71517b952cd",
+      "name_th": "Wind Spirals",
+      "name_en": "Wind Spirals",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "13",
+        "attack": "4",
+        "Exclusive Character name": "Yangyang",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Liberation",
+        "Aero",
+        "Yangyang"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-016.jpg",
+        "local_path": "assets/cards/SD01-016.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "21bf84f1-2737-406c-a176-89c174e6b588",
+          "rarity": "★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-016_3.jpg",
+          "local_image_path": "assets/cards/SD01-016_3.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "SD01-016-ab1",
+          "original_th": "[Leader Skill] [Judgement] หากชนะ ในรอบการเล่นถัดไป การ์ดสีแดงของฝ่ายตรงข้าม Cost +1",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:17:26.802087+00:00",
+        "updated_at": "2026-09-14T19:52:07.655927+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-023",
+      "system_id": "aa306eee-2baf-4736-9dec-f4e9d2ad471d",
+      "name_th": "Echoing Orchestra",
+      "name_en": "Echoing Orchestra",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "3",
+        "Speed": "14",
+        "attack": "5",
+        "Exclusive Character name": "Rover (F)",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Liberation",
+        "Spectro",
+        "Rover (F)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-023.jpg",
+        "local_path": "assets/cards/SD01-023.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "2c8ea669-8da3-486b-9468-15c2c28e2b66",
+          "rarity": "★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-023_3.jpg",
+          "local_image_path": "assets/cards/SD01-023_3.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "SD01-023-ab1",
+          "original_th": "[Leader Skill] [Judgement] หากชนะ ฟื้นฟู 5 พลังชีวิต",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:14:31.659126+00:00",
+        "updated_at": "2026-09-08T01:45:00.792101+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-012",
+      "system_id": "cbbc529a-dcec-41de-a252-3ebe6b40e58a",
+      "name_th": "Frigid Light • Basic Attack",
+      "name_en": "Frigid Light • Basic Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "8",
+        "attack": "1",
+        "Exclusive Character name": "Sanhua",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Basic Attack",
+        "Glacio",
+        "Sanhua"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-012.jpg",
+        "local_path": "assets/cards/SD02-012.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:59:15.943507+00:00",
+        "updated_at": "2026-09-08T01:44:06.222148+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-023",
+      "system_id": "d7d99d65-e0b5-441e-80e1-cb058f7a52de",
+      "name_th": "Yangyang",
+      "name_en": "Yangyang",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Sword",
+        "Attribute": "Aero"
+      },
+      "tags": [
+        "Yangyang"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-023.jpg",
+        "local_path": "assets/cards/BP01-023.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-023-ab1",
+          "original_th": "[Enter] / [Level up] สามารถนำการ์ดใบบนสุดของเด็ควางที่ Concerto area",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-17T05:35:41.709208+00:00",
+        "updated_at": "2026-09-08T01:42:59.377696+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-072",
+      "system_id": "7bfa4f43-e134-48e9-b323-b61b417e4a86",
+      "name_th": "DAKA DAKA!",
+      "name_en": "DAKA DAKA!",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "12",
+        "attack": "2",
+        "Exclusive Character name": "Chixia",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Forte Circuit",
+        "Fusion",
+        "Chixia"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-072.jpg",
+        "local_path": "assets/cards/BP01-072.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-072-ab1",
+          "original_th": "[Leader Skill] [Advantage] [Counter] นำการ์ด <Basic Attack> หรือ <Resonance Liberation> 1 ใบจากกองทิ้งขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-26T04:50:13.690098+00:00",
+        "updated_at": "2026-09-19T13:51:06.596096+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-007",
+      "system_id": "10aeca3d-610d-493e-ae5d-40c4cd7b8c91",
+      "name_th": "Slash of Breaking Dawn • Basic Attack",
+      "name_en": "Slash of Breaking Dawn • Basic Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "7",
+        "attack": "1",
+        "Exclusive Character name": "Jinshi",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Basic Attack",
+        "Spectro",
+        "Jinshi"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-007.jpg",
+        "local_path": "assets/cards/SD02-007.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T07:56:53.025369+00:00",
+        "updated_at": "2026-09-08T01:44:24.671359+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-039",
+      "system_id": "dfa28416-c14b-4d72-83b6-b0ae4c70e6b6",
+      "name_th": "Feilian Beringal",
+      "name_en": "Feilian Beringal",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "5",
+        "attack": "2",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Echo",
+        "Sierra Gale",
+        "Aero"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-039_2.jpg",
+        "local_path": "assets/cards/BP01-039_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "4cb96fae-b379-49fe-9780-0c6658e26179",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-039_2.jpg",
+          "local_image_path": "assets/cards/BP01-039_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-039-ab1",
+          "original_th": "การ์ด <Echo> สามารถอยู่บน Action Area ได้สูงสุด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-039-ab2",
+          "original_th": "[Advantage] หากสร้างความเสียหายแก่ฝ่ายตรงข้าม สุ่มการ์ด 1 ใบในมือฝ่ายตรงข้ามลงไปไว้ใต้ Action deck ของฝ่ายตรงข้าม",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:07:26.124748+00:00",
+        "updated_at": "2026-09-19T13:58:59.106695+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-001",
+      "system_id": "f02f6990-f788-4ba7-bca5-a914a0bee99a",
+      "name_th": "Camellya",
+      "name_en": "Camellya",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Sword",
+        "Attribute": "Havoc"
+      },
+      "tags": [
+        "Camellya"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-001.jpg",
+        "local_path": "assets/cards/BP01-001.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "ed226998-25cc-4345-8858-01040484b562",
+          "rarity": "★ ★ ★ ★",
+          "sources": [],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-001_4.jpg",
+          "local_image_path": "assets/cards/BP01-001_4.jpg"
+        },
+        {
+          "variant_id": "dde7b736-74f5-4635-8ba6-8d6cd6b00231",
+          "rarity": "★ ★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-001_5.jpg",
+          "local_image_path": "assets/cards/BP01-001_5.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-001-ab1",
+          "original_th": "[Level up] นำการ์ดใบนี้กลับเข้า Character deck",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-001-ab2",
+          "original_th": "[Leader] ดาเมจที่เจ้าของได้รับ +1 การ์ดสีแดงของ 【Camellya】ได้รับ +1 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-31T19:38:19.348098+00:00",
+        "updated_at": "2026-09-19T14:05:15.3968+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-011",
+      "system_id": "241647a1-f634-4944-91ec-6d2063e6b7be",
+      "name_th": "Encore",
+      "name_en": "Encore",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Rectifier",
+        "Attribute": "Fusion"
+      },
+      "tags": [
+        "Encore"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-011.jpg",
+        "local_path": "assets/cards/BP01-011.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "99f8a272-7579-497a-a95e-c0cdd2bf4ea5",
+          "rarity": "★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-011_4.jpg",
+          "local_image_path": "assets/cards/BP01-011_4.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-011-ab1",
+          "original_th": "การ์ดใบนี้สามารถเล่นได้จากความสามารถเท่านั้น",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-011-ab2",
+          "original_th": "การ์ดสีแดงของ 【Encore】 ได้รับ +1 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-011-ab3",
+          "original_th": "[At end of each turn]หากการ์ดใบนี้ไม่ได้ถูกลงในรอบนี้ นำการ์ดใบนี้กลับเข้า Charcater deck",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-31T19:51:44.420357+00:00",
+        "updated_at": "2026-09-14T19:38:01.232613+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-010",
+      "system_id": "bb7a829b-8774-458d-a884-043059b20258",
+      "name_th": "Incarnation",
+      "name_en": "Incarnation",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "13",
+        "attack": "0",
+        "Exclusive Character name": "Jinshi",
+        "Color": "เขียว"
+      },
+      "tags": [
+        "Forte Circuit",
+        "Jinshi"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-010.jpg",
+        "local_path": "assets/cards/SD02-010.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD02-010-ab1",
+          "original_th": "[Counter] ในเทิร์นนี้ ไม่สามารถสลับ Leader ได้",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "SD02-010-ab2",
+          "original_th": "[Judgement] หากชนะ จั่วการ์ด 3 ใบ ได้รับ +8[follow-up attack]",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T06:47:40.519687+00:00",
+        "updated_at": "2026-09-08T01:48:37.636308+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-009",
+      "system_id": "8546bf63-daeb-4431-bd17-1ca8392c4d42",
+      "name_th": "Shorekeeper",
+      "name_en": "Shorekeeper",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Rectifier",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Shorekeeper"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-009.jpg",
+        "local_path": "assets/cards/BP01-009.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-009-ab1",
+          "original_th": "[Enter] / [Level up] สามารถนำการ์ด <Intro Skill> 1 ใบจากกองทิ้งขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-21T06:01:52.41539+00:00",
+        "updated_at": "2026-09-19T13:51:54.844618+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-069",
+      "system_id": "f52f83fa-8cf5-4066-9229-746357975efb",
+      "name_th": "Feather Release • Dodge",
+      "name_en": "Feather Release • Dodge",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "attack": "0",
+        "Exclusive Character name": "Yangyang",
+        "Color": "ฟ้า"
+      },
+      "tags": [
+        "Dodge",
+        "Airborn",
+        "Yangyang"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-069_2.jpg",
+        "local_path": "assets/cards/BP01-069_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "d6df42b5-8aa4-42a1-9bba-4622ae759a40",
+          "rarity": "★ ★",
+          "sources": [],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-069_2.jpg",
+          "local_image_path": "assets/cards/BP01-069_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-069-ab1",
+          "original_th": "[Judgement] หากชนะ ได้รับ +1[follow-up attack]",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-069-ab2",
+          "original_th": "[At end of each counter phase] หาก Leader เป็น 「Yangyang」สามารถจ่าย 1 cost จากนั้นนั้นการ์ดใบนี้ขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:52:58.494073+00:00",
+        "updated_at": "2026-09-19T14:23:28.572883+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-034",
+      "system_id": "60ab60e8-c4a4-406c-bfb8-71f0a5562122",
+      "name_th": "Traffic Illuminator",
+      "name_en": "Traffic Illuminator",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "5",
+        "attack": "1",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Echo",
+        "Molten Rift",
+        "Fusion"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-034_2.jpg",
+        "local_path": "assets/cards/BP01-034_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "82756a89-78f7-4754-8da5-e0bdc348b497",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-034_2.jpg",
+          "local_image_path": "assets/cards/BP01-034_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-034-ab1",
+          "original_th": "การ์ด <Echo> สามารถอยู่บน Action Area ได้สูงสุด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-034-ab2",
+          "original_th": "หากใน Concerto Area มีการ์ด <Molten Rift> 2 ใบ หรือมากกว่ารวมการ์ดใบนี้ การ์ด <Fusion> ใบแรกที่ใช้ได้รับ +1 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T01:37:48.221215+00:00",
+        "updated_at": "2026-09-19T14:01:00.933149+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-050",
+      "system_id": "13a9065a-5c0b-47a6-a761-312dee22dba4",
+      "name_th": "Crimson Pistil",
+      "name_en": "Crimson Pistil",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "6",
+        "attack": "1",
+        "Exclusive Character name": "Camellya",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Basic Attack",
+        "Havoc",
+        "Camellya"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-050.jpg",
+        "local_path": "assets/cards/BP01-050.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-050-ab1",
+          "original_th": "[Combo] หากใน Action area ของเจ้าของมีการ์ดมากกว่าหรือเท่ากับ 2 ใบ การ์ดใบนี้ได้รับ +1 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-31T04:56:59.104638+00:00",
+        "updated_at": "2026-09-19T14:05:28.512953+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-014",
+      "system_id": "880e3e81-ea38-4fb7-adfc-382af3dc5238",
+      "name_th": "Encore",
+      "name_en": "Encore",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Rectifier",
+        "Attribute": "Fusion"
+      },
+      "tags": [
+        "Encore"
+      ],
+      "keywords": [
+        "Leader"
+      ],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-014.jpg",
+        "local_path": "assets/cards/BP01-014.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-014-ab1",
+          "original_th": "[Leader] การ์ด <Heavy Attack> และ <Forte Circuit> ของ【Encore】ได้รับ “[Judgement] หากแพ้การ์ดสีแดงในการเล่นการ์ดใบนี้ หลังจบช่วง Counter ทำดาเมจเท่ากับดาเมจของการ์ดใบนี้แก่ฝ่ายตรงข้าม”",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [
+            "Leader"
+          ],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-17T08:41:26.530222+00:00",
+        "updated_at": "2026-09-19T14:16:47.739942+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-006",
+      "system_id": "bcca9416-7e63-4d46-988c-96789abb8d49",
+      "name_th": "Shorekeeper",
+      "name_en": "Shorekeeper",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Rectifier",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Shorekeeper"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-006.jpg",
+        "local_path": "assets/cards/BP01-006.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "97e5df37-f666-45a8-98db-b17e5365c452",
+          "rarity": "★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-006_4.jpg",
+          "local_image_path": "assets/cards/BP01-006_4.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-006-ab1",
+          "original_th": "2 ครั้งต่อรอบการเล่น หากฟื้นฟูพลังชีวิต สามารถจั่วการ์ด 1 ใบขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-31T19:50:43.245529+00:00",
+        "updated_at": "2026-09-08T01:34:11.066879+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-057",
+      "system_id": "3af692f3-96c1-4235-a2be-6f91f73bd6f3",
+      "name_th": "End loop",
+      "name_en": "End loop",
+      "card_type": "Action",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "cost": "1",
+        "Speed": "11",
+        "attack": "0",
+        "Exclusive Character name": "Shorekeeper",
+        "Color": "เขียว"
+      },
+      "tags": [
+        "Resonance Liberation",
+        "Shorekeeper"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-057.jpg",
+        "local_path": "assets/cards/BP01-057.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-057-ab1",
+          "original_th": "[Leader Skill] (การ์ดใบนี้สามารถใช้ได้ก็ต่อเมื่อลีดเดอร์ของคุณเป็นตัวละครที่ระบุไว้เท่านั้น)",
+          "custom_th": "",
+          "original_en": "[Leader Skill] (This card can only be used if your leader is the specified character)",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-057-ab2",
+          "original_th": "[Counter] ในรอบนี้ การ์ด <Intro Skill> 2 ใบถัดไปที่เล่นได้รับ \"[Combo] จั่วการ์ด 1 ใบ\"",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-057-ab3",
+          "original_th": "[Judgement] หากชนะ ฟื้นฟู 1 พลังชีวิตและได้รับ +8 [follow-up attack]",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-01T00:19:37.547314+00:00",
+        "updated_at": "2026-09-19T14:22:17.598491+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-016",
+      "system_id": "70ddd72c-b17e-4e6a-93f5-9b6698cb89a0",
+      "name_th": "Rover (F)",
+      "name_en": "Rover (F)",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Sword",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Rover (F)"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-016.jpg",
+        "local_path": "assets/cards/BP01-016.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "836d2c09-0ba8-40b1-943b-9aa751630044",
+          "rarity": "★ ★ ★ ★",
+          "sources": [],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-016_4.jpg",
+          "local_image_path": "assets/cards/BP01-016_4.jpg"
+        },
+        {
+          "variant_id": "4ae8d2b3-095f-4c76-a50d-31b3a848dd24",
+          "rarity": "★ ★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-016_5.jpg",
+          "local_image_path": "assets/cards/BP01-016_5.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-016-ab1",
+          "original_th": "[Leader] [Judgement] หากชนะการ์ดสีฟ้าด้วยการ์ดสีเขียว ถ้ามีการ์ดในมือไม่ถึง 8 ใบ จั่วการ์ดให้เป็น 8 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-01T04:32:52.484099+00:00",
+        "updated_at": "2026-09-14T19:37:20.562528+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-037",
+      "system_id": "9fefe0eb-04f5-4e43-8ec1-29db5544640b",
+      "name_th": "Lampylumen Myriad",
+      "name_en": "Lampylumen Myriad",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "5",
+        "attack": "2",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Echo",
+        "Freezing Frost",
+        "Glacio"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-037_2.jpg",
+        "local_path": "assets/cards/BP01-037_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "63869ba0-1e3b-4dd4-8303-f92fe833e144",
+          "rarity": "★ ★",
+          "sources": [],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-037_2.jpg",
+          "local_image_path": "assets/cards/BP01-037_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-037-ab1",
+          "original_th": "การ์ด <Echo> สามารถอยู่บน Action Area ได้สูงสุด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-037-ab2",
+          "original_th": "[Advantage] หากสร้างความเสียหายแก่ฝ่ายตรงข้าม นำการ์ด 1 ใบใน Concerto Area ของฝ่ายตรงข้ามลงกองทิ้ง",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:03:39.959003+00:00",
+        "updated_at": "2026-09-19T13:59:28.132468+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-004",
+      "system_id": "c6df2bfa-354b-4027-8576-ef38521b37b7",
+      "name_th": "Camellya",
+      "name_en": "Camellya",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Sword",
+        "Attribute": "Havoc"
+      },
+      "tags": [
+        "Camellya"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-004.jpg",
+        "local_path": "assets/cards/BP01-004.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-004-ab1",
+          "original_th": "[Leader] [Judgement] หากแพ้การ์ดสีฟ้า ในการเล่นการ์ดสีแดง สามารถแสดงการ์ด 1 ใบบนสุดของเด็ค จากนั้นนำขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-19T06:17:37.021255+00:00",
+        "updated_at": "2026-09-08T01:39:14.017186+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-020",
+      "system_id": "cfd68397-2de0-466c-a26b-42f56a087f8b",
+      "name_th": "Sensor",
+      "name_en": "Sensor",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "5",
+        "attack": "0",
+        "Exclusive Character name": "Rover (M)",
+        "Color": "เขียว"
+      },
+      "tags": [
+        "Utilities",
+        "Rover (M)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-020.jpg",
+        "local_path": "assets/cards/SD02-020.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD02-020-ab1",
+          "original_th": "[Judgement] หากชนะ จั่วการ์ด 1 ใบ ฝ่ายตรงข้ามแสดงการ์ดในมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T04:40:41.720226+00:00",
+        "updated_at": "2026-09-08T01:49:28.086957+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-046",
+      "system_id": "60fe3cb1-6ffe-46cc-a5c2-3b8434cacf1a",
+      "name_th": "Everblooming",
+      "name_en": "Everblooming",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "0",
+        "attack": "0",
+        "Exclusive Character name": "Camellya",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Intro Skill",
+        "Camellya"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-046.jpg",
+        "local_path": "assets/cards/BP01-046.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-046-ab1",
+          "original_th": "[Combo] เปลี่ยน Leader หากเปลี่ยนเป็น 「Camellya」 Level up ให้「Camellya」 ของคุณ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-31T19:55:12.772014+00:00",
+        "updated_at": "2026-09-11T06:01:44.128031+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-062",
+      "system_id": "bbfeccd5-4496-4689-9e7c-f31af6c0a882",
+      "name_th": "Cosmos Rave",
+      "name_en": "Cosmos Rave",
+      "card_type": "Action",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "cost": "2",
+        "Speed": "11",
+        "attack": "3",
+        "Exclusive Character name": "Encore",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Liberation",
+        "Fusion",
+        "Encore"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-062.jpg",
+        "local_path": "assets/cards/BP01-062.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-062-ab1",
+          "original_th": "[Advantage] คอสของการ์ดใบนี้ -1",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-062-ab2",
+          "original_th": "[Counter] นำการ์ด 「Encore」 Level 2 วางบนสุดของ 「Encore」 ของเจ้าของ (นับเป็นการ Level up)  สลับ Leader เป็น 「Encore」",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-01T00:23:58.112544+00:00",
+        "updated_at": "2026-09-11T05:58:18.733207+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-002",
+      "system_id": "79653141-9491-4f84-81d9-ff96807ed3bc",
+      "name_th": "Rover (F)",
+      "name_en": "Rover (F)",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Sword",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Rover (F)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-002.jpg",
+        "local_path": "assets/cards/SD01-002.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD01-002-ab1",
+          "original_th": "[Leader] [Judgement]หากแพ้ให้กับการ์ดสีแดงในการเล่นการ์ดสีเขียว สามารถแสดงการ์ด 1 ใบบนสุดของเด็ค จากนั้นนำขึ้นมือ",
+          "custom_th": "",
+          "original_en": "[Leader] [Judgement] If you lose to a red card while playing a green card, you may reveal the top card of your deck and add it to your hand",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T03:09:46.024231+00:00",
+        "updated_at": "2026-09-08T01:53:14.824148+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-061",
+      "system_id": "c368dc01-14f6-49ce-b24f-c4f974e4f9d2",
+      "name_th": "Black & White Woolies",
+      "name_en": "Black & White Woolies",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "0",
+        "attack": "3",
+        "Exclusive Character name": "Encore",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Forte Circuit",
+        "Resonance Liberation",
+        "Fusion",
+        "Encore"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-061.jpg",
+        "local_path": "assets/cards/BP01-061.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-061-ab1",
+          "original_th": "[Leader Skill] (การ์ดใบนี้สามารถใช้ได้ก็ต่อเมื่อลีดเดอร์ของคุณเป็นตัวละครที่ระบุไว้เท่านั้น)",
+          "custom_th": "",
+          "original_en": "[Leader Skill] (This card can only be used if your leader is the specified character)",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-061-ab2",
+          "original_th": "[Counter] / [Combo] ในรอบนี้ เจ้าของจะไม่สามารถโจมตีต่อเนื่องได้",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-17T08:45:26.255273+00:00",
+        "updated_at": "2026-09-08T01:39:25.055315+00:00"
+      }
+    },
+    {
+      "card_code": "SD02-002",
+      "system_id": "99a5cb0b-7791-40b3-9900-819db4f872f3",
+      "name_th": "Rover (M)",
+      "name_en": "Rover (M)",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Sword",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Rover (M)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD02"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD02-002.jpg",
+        "local_path": "assets/cards/SD02-002.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD02-002-ab1",
+          "original_th": "[Leader] [Judgement] หากแพ้ให้กับการ์ดสีแดงในการเล่นการ์ดสีเขียว สามารถแสดงการ์ด 1 ใบบนสุดของเด็ค จากนั้นนำขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T03:43:08.843726+00:00",
+        "updated_at": "2026-09-08T01:51:50.127385+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-018",
+      "system_id": "55569402-7813-4859-a2f9-e8284869e5b7",
+      "name_th": "Rover (F)",
+      "name_en": "Rover (F)",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "0",
+        "Weapon": "Sword",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Rover (F)"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-018.jpg",
+        "local_path": "assets/cards/BP01-018.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-018-ab1",
+          "original_th": "[Leader] [Counter] หาก counter ด้วยการ์ดสีเขียว สามารถแสดงการ์ด 2 ใบบนสุดของเด็คจากนั้นนำขึ้นมือ",
+          "custom_th": "",
+          "original_en": "[Leader] [Counter] If you counter with green card, reaveal up to 2 card from top of your deck and draw them to hands",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T02:54:19.8688+00:00",
+        "updated_at": "2026-09-10T15:05:09.639163+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-045",
+      "system_id": "4900b5d6-12cd-4654-8577-7acb24cbacf9",
+      "name_th": "Burgeoning • Dodge Counter",
+      "name_en": "Burgeoning • Dodge Counter",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "attack": "3",
+        "Exclusive Character name": "Camellya",
+        "Color": "ฟ้า"
+      },
+      "tags": [
+        "Dodge Counter",
+        "Havoc",
+        "Camellya"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-045_2.jpg",
+        "local_path": "assets/cards/BP01-045_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "0a6e47c5-3fa1-471d-acf5-3073b042486b",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-045_2.jpg",
+          "local_image_path": "assets/cards/BP01-045_2.jpg"
+        }
+      ],
+      "abilities": [],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:26:14.372984+00:00",
+        "updated_at": "2026-09-13T17:47:01.196991+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-035",
+      "system_id": "9c1c9c08-cd1b-40c9-93aa-bc9186928176",
+      "name_th": "Inferno Rider",
+      "name_en": "Inferno Rider",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "5",
+        "attack": "2",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Echo",
+        "Molten Rift",
+        "Fusion"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-035_2.jpg",
+        "local_path": "assets/cards/BP01-035_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "b0d2f3f7-50d2-48e6-bcdb-1bc181ba6fab",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-035_2.jpg",
+          "local_image_path": "assets/cards/BP01-035_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-035-ab1",
+          "original_th": "การ์ด <Echo> สามารถอยู่บน Action Area ได้สูงสุด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-035-ab2",
+          "original_th": "[Advantage] หากสร้างความเสียหายแก่ฝ่ายตรงข้าม ทุกๆการ์ด 4 ใบในมือของฝ่ายตรงข้าม ฝ่ายตรงข้ามทิ้งการ์ด 1 ใบในมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T02:53:17.388556+00:00",
+        "updated_at": "2026-09-19T14:00:25.48142+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-041",
+      "system_id": "70538bf4-cd63-4a6e-afea-69e2a5031d7e",
+      "name_th": "Crownless",
+      "name_en": "Crownless",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "5",
+        "attack": "2",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Echo",
+        "Havoc Eclipse",
+        "Havoc"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-041_2.jpg",
+        "local_path": "assets/cards/BP01-041_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "5380b4cc-636d-4884-aef3-35e58b42ab90",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-041_2.jpg",
+          "local_image_path": "assets/cards/BP01-041_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-041-ab1",
+          "original_th": "การ์ด <Echo> สามารถอยู่บน Action Area ได้สูงสุด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-041-ab2",
+          "original_th": "[Advantage] หากสร้างความเสียหายแก่ฝ่ายตรงข้าม นำการ์ด 3 ใบบนสุดของเด็คฝ่ายตรงข้ามตรงข้ามลงกองทิ้ง",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:12:42.711795+00:00",
+        "updated_at": "2026-09-19T13:58:21.051766+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-038",
+      "system_id": "e2f5b218-945e-4037-9f0c-b50b1a248233",
+      "name_th": "Chirpuff",
+      "name_en": "Chirpuff",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "5",
+        "attack": "1",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Echo",
+        "Sierra Gale",
+        "Aero"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-038_2.jpg",
+        "local_path": "assets/cards/BP01-038_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "28950d0e-72f1-4d51-a8fc-f03f9ca250fd",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-038_2.jpg",
+          "local_image_path": "assets/cards/BP01-038_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-038-ab1",
+          "original_th": "การ์ด <Echo> สามารถอยู่บน Action Area ได้สูงสุด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-038-ab2",
+          "original_th": "หากใน Concerto Area มีการ์ด <Sierra Gale> 2 ใบ หรือมากกว่ารวมการ์ดใบนี้ การ์ด <Aero> ใบแรกที่ใช้ได้รับ +1 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:05:18.988678+00:00",
+        "updated_at": "2026-09-19T13:59:11.571935+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-040",
+      "system_id": "60430a8b-260e-4f23-8600-843fc94aa70a",
+      "name_th": "Roseshroom",
+      "name_en": "Roseshroom",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "5",
+        "attack": "1",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Echo",
+        "Havoc Eclipse",
+        "Havoc"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-040_2.jpg",
+        "local_path": "assets/cards/BP01-040_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "373eb777-6176-4063-a19e-e6aca8f1be76",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-040_2.jpg",
+          "local_image_path": "assets/cards/BP01-040_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-040-ab1",
+          "original_th": "การ์ด <Echo> สามารถอยู่บน Action Area ได้สูงสุด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-040-ab2",
+          "original_th": "หากใน Concerto Area มีการ์ด <Havoc Eclipse> 2 ใบ หรือมากกว่ารวมการ์ดใบนี้ การ์ด <Havoc> ใบแรกที่ใช้ได้รับ +1 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:09:04.291811+00:00",
+        "updated_at": "2026-09-19T13:58:45.37544+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-002",
+      "system_id": "a63a1304-96fc-489a-9b38-78e8e588b3cd",
+      "name_th": "Camellya",
+      "name_en": "Camellya",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Sword",
+        "Attribute": "Havoc"
+      },
+      "tags": [
+        "Camellya"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-002.jpg",
+        "local_path": "assets/cards/BP01-002.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "ffc8c362-2306-41e9-9eea-3b81e1121bed",
+          "rarity": "★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-002_4.jpg",
+          "local_image_path": "assets/cards/BP01-002_4.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-002-ab1",
+          "original_th": "[Level up] นำการ์ดใบนี้กลับเข้า Character deck",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-002-ab2",
+          "original_th": "[Leader] แต่ละรอบการเล่น ดาเมจที่ได้รับ -1",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-19T06:19:52.111946+00:00",
+        "updated_at": "2026-09-08T01:38:55.269104+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-019",
+      "system_id": "bda1d6b6-3189-40cb-a067-8a5f2563c29f",
+      "name_th": "Rover (M)",
+      "name_en": "Rover (M)",
+      "card_type": "Character",
+      "primary_rarity": "★ ★ ★",
+      "stats": {
+        "Level": "2",
+        "Weapon": "Sword",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Rover (M)"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-019.jpg",
+        "local_path": "assets/cards/BP01-019.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "25d6aff1-d413-4fc1-9995-b76d4123a9ce",
+          "rarity": "★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-019_4.jpg",
+          "local_image_path": "assets/cards/BP01-019_4.jpg"
+        },
+        {
+          "variant_id": "2479f475-2cf3-420e-856a-a53667b06d6b",
+          "rarity": "★ ★ ★ ★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-019_5.jpg",
+          "local_image_path": "assets/cards/BP01-019_5.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-019-ab1",
+          "original_th": "[Leader] [Judgement] หากชนะด้วยการ์ดสีเขียว ได้รับ +3 [Follow-up attack]",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-01T06:12:27.449724+00:00",
+        "updated_at": "2026-09-14T19:37:30.418486+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-060",
+      "system_id": "110a837c-19b2-472f-a714-4878396b5b8f",
+      "name_th": "Wooly Attack • Heavy Attack",
+      "name_en": "Wooly Attack • Heavy Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "3",
+        "attack": "1",
+        "Exclusive Character name": "Encore",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Heavy Attack",
+        "Fusion",
+        "Encore"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-060_2.jpg",
+        "local_path": "assets/cards/BP01-060_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "fd5ac4e7-40d2-45b8-898e-4a500fce0478",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-060_2.jpg",
+          "local_image_path": "assets/cards/BP01-060_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-060-ab1",
+          "original_th": "หากสร้างความเสียหายใส่ฝ่ายตรงข้าม หาก Leader เป็น 「Encore」 จั่วการ์ด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:42:16.435803+00:00",
+        "updated_at": "2026-09-13T17:46:06.203394+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-055",
+      "system_id": "8c1b47fb-67ce-4b33-b91e-5c0ca6530c32",
+      "name_th": "Origin Calculus • Heavy Attack",
+      "name_en": "Origin Calculus • Heavy Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "3",
+        "attack": "1",
+        "Exclusive Character name": "Shorekeeper",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Heavy Attack",
+        "Spectro",
+        "Shorekeeper"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-055_2.jpg",
+        "local_path": "assets/cards/BP01-055_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "966c37aa-d87f-4d4b-923a-5667d30558ff",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-055_2.jpg",
+          "local_image_path": "assets/cards/BP01-055_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-055-ab1",
+          "original_th": "หากพลังชีวิตของเจ้าของ มากกว่าฝ่ายตรงข้าม การ์ดใบนี้ได้รับ +1 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:39:57.117238+00:00",
+        "updated_at": "2026-09-13T17:46:17.719858+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-063",
+      "system_id": "157b5dd9-0541-4475-9450-11d7ee52387b",
+      "name_th": "Woolies Helpers",
+      "name_en": "Woolies Helpers",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "0",
+        "attack": "0",
+        "Exclusive Character name": "Encore",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Intro Skill",
+        "Encore"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-063_2.jpg",
+        "local_path": "assets/cards/BP01-063_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "dbec5aa5-5cd0-42bd-8f75-21b7f9d7d776",
+          "rarity": "★ ★",
+          "sources": [],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-063_2.jpg",
+          "local_image_path": "assets/cards/BP01-063_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-063-ab1",
+          "original_th": "[Combo] เปลี่ยน Leader หากเปลี่ยนเป็น 「Encore 」นำการ์ดสีแดงของ 【Encore】ที่ไม่ใช่ <Intro Skill>  1 ใบขึ้นมือ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-01T00:17:24.864025+00:00",
+        "updated_at": "2026-09-19T14:15:33.739983+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-064",
+      "system_id": "986d5893-ce23-4c7f-ac6a-45e176ce6e4b",
+      "name_th": "Wooly Attack • Dodge Counter",
+      "name_en": "Wooly Attack • Dodge Counter",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "attack": "3",
+        "Exclusive Character name": "Encore",
+        "Color": "ฟ้า"
+      },
+      "tags": [
+        "Dodge Counter",
+        "Fusion",
+        "Encore"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-064_2.jpg",
+        "local_path": "assets/cards/BP01-064_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "aae0ca10-9c97-4890-ad0e-35b2e31c514f",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-064_2.jpg",
+          "local_image_path": "assets/cards/BP01-064_2.jpg"
+        }
+      ],
+      "abilities": [],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:43:29.454877+00:00",
+        "updated_at": "2026-09-13T17:45:55.290993+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-065",
+      "system_id": "4a5dd462-ad24-4bfe-a3a0-10ad8c5615f7",
+      "name_th": "Vibration Manifestation • Heavy Attack",
+      "name_en": "Vibration Manifestation • Heavy Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "6",
+        "attack": "1",
+        "Exclusive Character name": "Rover (F)",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Heavy Attack",
+        "Rover (F)"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-065_2.jpg",
+        "local_path": "assets/cards/BP01-065_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "1d7f349c-e681-4541-9aa1-c3f77607391d",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-065_2.jpg",
+          "local_image_path": "assets/cards/BP01-065_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-065-ab1",
+          "original_th": "[Combo] สามารถทิ้งการ์ด 1 ใบ หากทำการ์ดใบนี้ได้รับ +1 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:44:46.337938+00:00",
+        "updated_at": "2026-09-13T17:45:39.391202+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-067",
+      "system_id": "d30676ef-c42c-476e-afe3-829eaba21b38",
+      "name_th": "Vibration Manifestation • Heavy Attack",
+      "name_en": "Vibration Manifestation • Heavy Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "6",
+        "attack": "1",
+        "Exclusive Character name": "Rover (M)",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Heavy Attack",
+        "Rover (M)"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-067_2.jpg",
+        "local_path": "assets/cards/BP01-067_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "0c46fa16-bb74-47be-a4e2-577dc75115fc",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-067_2.jpg",
+          "local_image_path": "assets/cards/BP01-067_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-067-ab1",
+          "original_th": "[Combo] สามารถทิ้งการ์ด 1 ใบ หากทำการ์ดใบนี้ได้รับ +1 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:46:21.65786+00:00",
+        "updated_at": "2026-09-13T17:45:22.604722+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-068",
+      "system_id": "bd4bfb69-b678-498e-a77f-3481af88f5bb",
+      "name_th": "Vibration Manifestation • Mid-air Attack",
+      "name_en": "Vibration Manifestation • Mid-air Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "6",
+        "attack": "1",
+        "Exclusive Character name": "Rover (M)",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Mid-air Attack",
+        "Rover (M)"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-068_2.jpg",
+        "local_path": "assets/cards/BP01-068_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "186a4c55-f2e0-4447-83a0-ee393a6ca05d",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-068_2.jpg",
+          "local_image_path": "assets/cards/BP01-068_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-068-ab1",
+          "original_th": "[Judgement] หากชนะ จั่วการ์ด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:47:28.54228+00:00",
+        "updated_at": "2026-09-13T17:45:10.030357+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-071",
+      "system_id": "fcf48b26-e9e6-49eb-84a0-079bc1b053cb",
+      "name_th": "Echoing Feathers",
+      "name_en": "Echoing Feathers",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "6",
+        "attack": "1",
+        "Exclusive Character name": "Yangyang",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Mid-air Attack",
+        "Aero",
+        "Yangyang"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-071.jpg",
+        "local_path": "assets/cards/BP01-071.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "81810f1b-708f-4bab-8156-830cffcb76a0",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-071_2.jpg",
+          "local_image_path": "assets/cards/BP01-071_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-071-ab1",
+          "original_th": "[Combo] ในรอบนี้ หากเจ้าของเล่นการ์ด <Airborn> นำการ์ด 1 ใบบนสุดของเด็ควางที่ Concerto Area",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:54:13.590027+00:00",
+        "updated_at": "2026-09-19T14:02:11.677994+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-075",
+      "system_id": "d28c80dc-d1e8-49f1-afe1-fd4b12b9d244",
+      "name_th": "Slash of Breaking Dawn • Heavy Attack",
+      "name_en": "Slash of Breaking Dawn • Heavy Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "5",
+        "attack": "1",
+        "Exclusive Character name": "Jinshi",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Heavy Attack",
+        "Spectro",
+        "Jinshi"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-075.jpg",
+        "local_path": "assets/cards/BP01-075.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "613d3145-4894-4733-96c0-ab9e01c354cc",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-075_2.jpg",
+          "local_image_path": "assets/cards/BP01-075_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-075-ab1",
+          "original_th": "[Judgement] หากชนะ จั่วการ์ด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:55:51.843266+00:00",
+        "updated_at": "2026-09-11T04:43:47.249095+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-054",
+      "system_id": "b755f21d-af14-4a52-b99a-ccaf81bff817",
+      "name_th": "Enlightenment",
+      "name_en": "Enlightenment",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "0",
+        "attack": "0",
+        "Exclusive Character name": "Shorekeeper",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Intro Skill",
+        "Shorekeeper"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-054.jpg",
+        "local_path": "assets/cards/BP01-054.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "BP01-054-ab1",
+          "original_th": "[Combo] เปลี่ยน Leader หากเปลี่ยนเป็น 「Shorekeeper」ฟื้นฟู 1 พลังชีวิต",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-31T19:53:52.549398+00:00",
+        "updated_at": "2026-09-11T06:02:10.99924+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-056",
+      "system_id": "2586ce1a-928d-486f-a786-e17a02b3b9f5",
+      "name_th": "Chaos Theory",
+      "name_en": "Chaos Theory",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "11",
+        "attack": "1",
+        "Exclusive Character name": "Shorekeeper",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Resonance Skill",
+        "Spectro",
+        "Shorekeeper"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-056_2.jpg",
+        "local_path": "assets/cards/BP01-056_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "7da1c091-8a78-4fb7-8769-7cca9fe875bf",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-056_2.jpg",
+          "local_image_path": "assets/cards/BP01-056_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-056-ab1",
+          "original_th": "[Leader Skill] (การ์ดใบนี้สามารถใช้ได้ก็ต่อเมื่อลีดเดอร์ของคุณเป็นตัวละครที่ระบุไว้เท่านั้น)",
+          "custom_th": "",
+          "original_en": "[Leader Skill] (This card can only be used if your leader is the specified character)",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-056-ab2",
+          "original_th": "[Judgement] หากชนะ Level up ให้「Shorekeeper」 ของเจ้าของ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T04:00:54.967757+00:00",
+        "updated_at": "2026-09-13T17:44:37.886029+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-077",
+      "system_id": "f159d977-d333-4519-8356-2af6bf17b958",
+      "name_th": "Ice Burst",
+      "name_en": "Ice Burst",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "11",
+        "attack": "2",
+        "Exclusive Character name": "Sanhua",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Forte Circuit",
+        "Resonance Skill",
+        "Glacio",
+        "Sanhua"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-077.jpg",
+        "local_path": "assets/cards/BP01-077.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "3bbd45af-09eb-4e4d-84c0-5a92099e991b",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-077_2.jpg",
+          "local_image_path": "assets/cards/BP01-077_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-077-ab1",
+          "original_th": "[Leader Skill] (การ์ดใบนี้สามารถใช้ได้ก็ต่อเมื่อลีดเดอร์ของคุณเป็นตัวละครที่ระบุไว้เท่านั้น)",
+          "custom_th": "",
+          "original_en": "[Leader Skill] (This card can only be used if your leader is the specified character)",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-077-ab2",
+          "original_th": "[Judgement] หากชนะและมีการ์ดของ 【Sanhua】 ใน Concerto Area เจ้าของสามารถสลับ Leader ได้",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:58:51.656044+00:00",
+        "updated_at": "2026-09-13T17:41:05.02466+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-042",
+      "system_id": "f13b271f-0c4f-4df8-9e0c-39c1e9cd5c7f",
+      "name_th": "Cruisewing",
+      "name_en": "Cruisewing",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "5",
+        "attack": "2",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Echo",
+        "Celestial Light",
+        "Spectro"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-042_2.jpg",
+        "local_path": "assets/cards/BP01-042_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "09b1ded5-1698-4159-9322-f3642600622f",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-042_2.jpg",
+          "local_image_path": "assets/cards/BP01-042_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-042-ab1",
+          "original_th": "การ์ด <Echo> สามารถอยู่บน Action Area ได้สูงสุด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-042-ab2",
+          "original_th": "หากใน Concerto Area มีการ์ด <Celestial Light> 2 ใบ หรือมากกว่ารวมการ์ดใบนี้ การ์ด <Spectro> ใบแรกที่ใช้ได้รับ +1 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:15:22.486583+00:00",
+        "updated_at": "2026-09-19T13:58:09.540221+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-052",
+      "system_id": "ed9d51b4-fec4-410a-814b-b860e369a668",
+      "name_th": "Origin Calculus • Basic Attack",
+      "name_en": "Origin Calculus • Basic Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "5",
+        "attack": "1",
+        "Exclusive Character name": "Shorekeeper",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Nornal Attack",
+        "Basic Attack",
+        "Spectro",
+        "Shorekeeper"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-052_2.jpg",
+        "local_path": "assets/cards/BP01-052_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "e2b9c68f-a22d-41f4-bcbe-be48e2d52510",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-052_2.jpg",
+          "local_image_path": "assets/cards/BP01-052_2.jpg"
+        }
+      ],
+      "abilities": [],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:38:35.419084+00:00",
+        "updated_at": "2026-09-13T17:46:29.43947+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-051",
+      "system_id": "2de42e53-709a-4872-aa01-45e4245a61f4",
+      "name_th": "Vining Ronde",
+      "name_en": "Vining Ronde",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "6",
+        "attack": "1",
+        "Exclusive Character name": "Camellya",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Basic Attack",
+        "Havoc",
+        "Camellya"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-051_2.jpg",
+        "local_path": "assets/cards/BP01-051_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "651c574d-00ec-4af8-b648-5ba987ceae8b",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-051_2.jpg",
+          "local_image_path": "assets/cards/BP01-051_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-051-ab1",
+          "original_th": "[Judgement] หากชนะ จั่วการ์ด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:37:25.032417+00:00",
+        "updated_at": "2026-09-13T17:46:40.456803+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-020",
+      "system_id": "76bd30ca-adda-45c5-a135-45ef13580158",
+      "name_th": "Rover (M)",
+      "name_en": "Rover (M)",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Sword",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Rover (M)"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-020_2.jpg",
+        "local_path": "assets/cards/BP01-020_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "14134465-26f4-4999-a165-f68d36077c14",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-020_2.jpg",
+          "local_image_path": "assets/cards/BP01-020_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-020-ab1",
+          "original_th": "[Enter] / [Level up] แสดงการ์ด 1 ใบบนสุดของเด็ค สามารถนำการ์ดใบนี้ขึ้นมือได้",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T04:14:15.352976+00:00",
+        "updated_at": "2026-09-13T17:44:12.961317+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-017",
+      "system_id": "7b4e3000-1952-4076-8bc5-847fb6ad2b65",
+      "name_th": "Rover (F)",
+      "name_en": "Rover (F)",
+      "card_type": "Character",
+      "primary_rarity": "★",
+      "stats": {
+        "Level": "1",
+        "Weapon": "Sword",
+        "Attribute": "Spectro"
+      },
+      "tags": [
+        "Rover (F)"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-017_2.jpg",
+        "local_path": "assets/cards/BP01-017_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "948c1abb-d6cc-47fe-885d-b4404fe6f699",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-017_2.jpg",
+          "local_image_path": "assets/cards/BP01-017_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-017-ab1",
+          "original_th": "[Enter] / [Level up] แสดงการ์ด 1 ใบบนสุดของเด็ค สามารถนำการ์ดใบนี้ขึ้นมือได้",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T04:13:10.029276+00:00",
+        "updated_at": "2026-09-13T17:44:24.192955+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-047",
+      "system_id": "d9618359-433c-4969-b375-a6a4ab91bf82",
+      "name_th": "Burgeoning • Heavy Attack",
+      "name_en": "Burgeoning • Heavy Attack",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "6",
+        "attack": "1",
+        "Exclusive Character name": "Camellya",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Normal Attack",
+        "Heavy Attack",
+        "Havoc",
+        "Camellya"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-047_2.jpg",
+        "local_path": "assets/cards/BP01-047_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "689396b0-7021-4538-bfd8-f7bb7bc878cc",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-047_2.jpg",
+          "local_image_path": "assets/cards/BP01-047_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-047-ab1",
+          "original_th": "[Judgement] หากชนะ จั่วการ์ด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:27:40.40963+00:00",
+        "updated_at": "2026-09-13T17:46:50.575521+00:00"
+      }
+    },
+    {
+      "card_code": "SD01-014",
+      "system_id": "563d26d5-c11c-43e9-8bbd-a87d45dbecba",
+      "name_th": "Whispering Breeze",
+      "name_en": "Whispering Breeze",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "0",
+        "attack": "0",
+        "Exclusive Character name": "Yangyang",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Intro Skill",
+        "Yangyang"
+      ],
+      "keywords": [],
+      "sources": [
+        "SD01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/SD01-014.jpg",
+        "local_path": "assets/cards/SD01-014.jpg"
+      },
+      "rarity_variants": [],
+      "abilities": [
+        {
+          "ability_id": "SD01-014-ab1",
+          "original_th": "[Combo] เปลี่ยน Leader หากเปลี่ยนเป็น 「Yangyang」 นำการ์ด 1 ใบบนสุดของเด็ควางที่ Concerto area",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-08-10T06:57:23.441217+00:00",
+        "updated_at": "2026-09-19T14:10:55.024+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-043",
+      "system_id": "e2f1be91-0dfb-482c-a04a-3ed6e00a87cb",
+      "name_th": "Mourning Aix",
+      "name_en": "Mourning Aix",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "1",
+        "Speed": "5",
+        "attack": "2",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Echo",
+        "Celestial Light",
+        "Spectro"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-043_2.jpg",
+        "local_path": "assets/cards/BP01-043_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "eb0b02c2-c10c-4109-83e8-f7b49747c34c",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-043_2.jpg",
+          "local_image_path": "assets/cards/BP01-043_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-043-ab1",
+          "original_th": "การ์ด <Echo> สามารถอยู่บน Action Area ได้สูงสุด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-043-ab2",
+          "original_th": "[Advantage] หากสร้างความเสียหายแก่ฝ่ายตรงข้าม นำการ์ด 2 ใบจากกองทิ้งฝ่ายตรงข้าม นำไปไว้ใต้ Action deck ของฝ่ายตรงข้าม",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T03:17:02.923505+00:00",
+        "updated_at": "2026-09-19T13:57:45.416485+00:00"
+      }
+    },
+    {
+      "card_code": "BP01-036",
+      "system_id": "d9fd35e0-8144-4546-88e3-f5a37bf1a1d9",
+      "name_th": "Gulpuff",
+      "name_en": "Gulpuff",
+      "card_type": "Action",
+      "primary_rarity": "★",
+      "stats": {
+        "cost": "0",
+        "Speed": "5",
+        "attack": "1",
+        "Color": "แดง"
+      },
+      "tags": [
+        "Echo",
+        "Freezing Frost",
+        "Glacio"
+      ],
+      "keywords": [],
+      "sources": [
+        "BP01"
+      ],
+      "sort_order": 0,
+      "image": {
+        "remote_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-036_2.jpg",
+        "local_path": "assets/cards/BP01-036_2.jpg"
+      },
+      "rarity_variants": [
+        {
+          "variant_id": "2c2fa3db-5680-4647-a225-bf3f5c25250d",
+          "rarity": "★ ★",
+          "sources": [
+            "BP01"
+          ],
+          "image_url": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-036_2.jpg",
+          "local_image_path": "assets/cards/BP01-036_2.jpg"
+        }
+      ],
+      "abilities": [
+        {
+          "ability_id": "BP01-036-ab1",
+          "original_th": "การ์ด <Echo> สามารถอยู่บน Action Area ได้สูงสุด 1 ใบ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        },
+        {
+          "ability_id": "BP01-036-ab2",
+          "original_th": "หากใน Concerto Area มีการ์ด <Freezing Frost> 2 ใบ หรือมากกว่ารวมการ์ดใบนี้ การ์ด <Glacio> ใบแรกที่ใช้ได้รับ +1 ดาเมจ",
+          "custom_th": "",
+          "original_en": "",
+          "custom_en": "",
+          "keywords": [],
+          "is_customized": false,
+          "translation_status": "needs_review"
+        }
+      ],
+      "editor_notes": "",
+      "meta": {
+        "created_at": "2026-09-11T02:57:24.413646+00:00",
+        "updated_at": "2026-09-19T14:00:01.348115+00:00"
+      }
+    }
+  ]
+}
