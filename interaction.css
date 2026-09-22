@@ -24,3 +24,8 @@
 .card.mini .card-skill-button{left:-20px;right:-20px;min-height:24px;padding:6px 3px;font-size:8px;letter-spacing:.5px}
 @media(max-width:640px){.card-skill-button{left:-10px;right:-10px;font-size:8px}.card.mini .card-skill-button{left:-12px;right:-12px}}
 .card-skill-button{left:-8px;right:3px;bottom:4px;min-height:0;padding:5px 2px;border:1px solid #d2bd88;border-radius:3px;background:#d8c58de8;box-shadow:0 3px 9px #0008;color:#172126;font-size:8px;letter-spacing:.4px;transform:none}.card-skill-button:hover{transform:translateY(-1px) scale(1.02)}.card.mini .card-skill-button{left:-10px;right:2px;min-height:0;padding:3px 1px;font-size:6px;letter-spacing:.2px}
+
+/* Separate skill controls from transformed character card stacking contexts. */
+.character-stack .stack-skills{position:absolute;z-index:30;left:-24px;bottom:-7px;display:flex;flex-direction:column;gap:3px;align-items:flex-start;pointer-events:none}
+.stack-skills .stack-skill{pointer-events:auto;white-space:nowrap;padding:5px 7px;font-size:9px;line-height:1.25;border:1px solid #d2bd88;background:#d8c58df5;color:#172126;box-shadow:0 3px 9px #0008}
+.stack-skills .stack-skill:hover{background:#ffedb1}
